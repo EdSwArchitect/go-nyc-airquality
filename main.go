@@ -8,10 +8,15 @@ import (
 	"fmt"
 	"io"
 	"log"
+	"net"
+	"net/http"
 	"os"
 	"strconv"
 	"strings"
 	"sync"
+	"time"
+
+	"github.com/google/uuid"
 
 	airquality "github.com/EdSwArchitect/go-nyc-airquality/data"
 	elasticsearch "github.com/elastic/go-elasticsearch"
@@ -57,22 +62,24 @@ func bulkIndexIt(elastic *elasticsearch.Client, record []string) {
 	doc.Measure = record[3]
 	doc.GeoTypeName = record[4]
 
-	i, _ = strconv.ParseInt(record[5], 10, 32)
-	doc.GeoEntityID = int32(i)
+	// i, _ = strconv.ParseInt(record[5], 10, 32)
+	doc.GeoEntityID = record[5]
 
 	doc.GeoEntityName = record[6]
 
 	doc.YearDescription = record[7]
 
-	f, _ := strconv.ParseFloat(record[8], 32)
-	doc.DataValueMessage = float32(f)
+	// f, _ := strconv.ParseFloat(record[8], 32)
+	// doc.DataValueMessage = float32(f)
+	doc.DataValueMessage = record[8]
 
 	docs = append(docs, doc)
 
 	// Prepare the metadata payload
 	//
-	meta := []byte(fmt.Sprintf(`{ "index" : { "_id" : "%d" } }%s`, doc.IndicatorDataID, "\n"))
-	fmt.Printf("%s\n", meta) // <-- Uncomment to see the payload
+	// meta := []byte(fmt.Sprintf(`{ "index" : { "_id" : "%d" } }%s`, doc.IndicatorDataID, "\n"))
+	meta := []byte(fmt.Sprintf(`{ "index" : { "_id" : "%s" } }%s`, uuid.New().String(), "\n"))
+	// fmt.Printf("%s\n", meta) // <-- Uncomment to see the payload
 
 	// Prepare the data payload: encode article to JSON
 	//
@@ -92,11 +99,12 @@ func bulkIndexIt(elastic *elasticsearch.Client, record []string) {
 	buf.Write(meta)
 	buf.Write(data)
 
+	//var bulk esapi.Bulk()
+
 	counter++
+	if counter%50 == 0 {
 
-	if counter%100 == 0 {
-
-		res, err = elastic.Bulk(bytes.NewReader(buf.Bytes()), elastic.Bulk.WithIndex(index))
+		res, err = elastic.Bulk(bytes.NewReader(buf.Bytes()), elastic.Bulk.WithIndex(index), elastic.Bulk.WithDocumentType("mydoc"))
 
 		if err != nil {
 			log.Fatalf("Failure indexing batch: %s", err)
@@ -119,10 +127,22 @@ func bulkIndexIt(elastic *elasticsearch.Client, record []string) {
 			}
 			// A successful response might still contain errors for particular documents...
 			//
-		} else {
-			fmt.Printf("It should have bulked indexed. Not checking individual bulk errors")
 		}
+
+		time.Sleep(1 * time.Second)
+		// else {
+		// 	fmt.Printf("It should have bulked indexed. Not checking individual bulk errors")
+		// }
 	} // if counter%100 == 0 {
+
+	res, err = elastic.Bulk(bytes.NewReader(buf.Bytes()), elastic.Bulk.WithIndex(index), elastic.Bulk.WithDocumentType("mydoc"))
+
+	if err != nil {
+		log.Fatalf("Failure indexing batch: %s", err)
+	}
+
+	// fmt.Printf("Last one. %+v\n", res)
+
 }
 
 func indexIt(elastic *elasticsearch.Client, record []string) {
@@ -176,7 +196,8 @@ func indexIt(elastic *elasticsearch.Client, record []string) {
 
 func readCsv(elastic *elasticsearch.Client) {
 
-	fileName := "/home/edbrown/go/src/github.com/EdSwArchitect/go-nyc-airquality/resources/Air_Quality.csv"
+	// fileName := "/home/edbrown/go/src/github.com/EdSwArchitect/go-nyc-airquality/resources/Air_Quality.csv"
+	fileName := "/home/edbrown/go/src/github.com/EdSwArchitect/go-nyc-airquality/resources/Air_Quality_Last.csv"
 
 	file, err := os.Open(fileName)
 
@@ -208,7 +229,7 @@ func readCsv(elastic *elasticsearch.Client) {
 
 		// wg.Add(1)
 
-		fmt.Printf("Indexing record: %s\n", record[0])
+		// fmt.Printf("Indexing record: %s\n", record[0])
 
 		bulkIndexIt(elastic, record)
 		// indexIt(elastic, record)
@@ -219,6 +240,62 @@ func readCsv(elastic *elasticsearch.Client) {
 
 }
 
+func search(es *elasticsearch.Client, name *string) {
+
+	query := `{"query" : { "match" : { "geo_type_name" : "` + *name + `" } }}`
+
+	// 3. Search for the indexed documents
+	//
+	// Use the helper methods of the client.
+	res, err := es.Search(
+		es.Search.WithContext(context.Background()),
+		es.Search.WithIndex("nyc-air-quality"),
+		es.Search.WithBody(strings.NewReader(query)),
+		es.Search.WithTrackTotalHits(true),
+		es.Search.WithSize(500),
+		es.Search.WithFrom(0),
+		es.Search.WithPretty(),
+	)
+	if err != nil {
+		log.Fatalf("ERROR: %s", err)
+	}
+	defer res.Body.Close()
+
+	if res.IsError() {
+		var e map[string]interface{}
+		if err := json.NewDecoder(res.Body).Decode(&e); err != nil {
+			log.Fatalf("error parsing the response body: %s", err)
+		} else {
+			// Print the response status and error information.
+			log.Fatalf("[%s] %s: %s",
+				res.Status(),
+				e["error"].(map[string]interface{})["type"],
+				e["error"].(map[string]interface{})["reason"],
+			)
+		}
+	}
+
+	var r map[string]interface{}
+
+	if err := json.NewDecoder(res.Body).Decode(&r); err != nil {
+		log.Fatalf("Error parsing the response body: %s", err)
+	}
+
+	// Print the response status, number of results, and request duration.
+	log.Printf(
+		"[%s] %d hits; took: %dms",
+		res.Status(),
+		int(r["hits"].(map[string]interface{})["total"].(map[string]interface{})["value"].(float64)),
+		int(r["took"].(float64)),
+	)
+	// Print the ID and document source for each hit.
+	for _, hit := range r["hits"].(map[string]interface{})["hits"].([]interface{}) {
+		log.Printf(" * ID=%s, %s", hit.(map[string]interface{})["_id"], hit.(map[string]interface{})["_source"])
+	}
+
+	log.Println(strings.Repeat("=", 37))
+}
+
 func main() {
 	fmt.Println("Hi, Ed")
 
@@ -226,7 +303,17 @@ func main() {
 
 	var r map[string]interface{}
 
-	elastic, _ := elasticsearch.NewDefaultClient()
+	cfg := elasticsearch.Config{
+		Addresses: []string{"http://localhost:9200"},
+		Transport: &http.Transport{
+			MaxIdleConnsPerHost:   10,
+			ResponseHeaderTimeout: 10 * time.Second,
+			DialContext:           (&net.Dialer{Timeout: 10 * time.Second}).DialContext,
+		},
+	}
+
+	// elastic, _ := elasticsearch.NewDefaultClient()
+	elastic, _ := elasticsearch.NewClient(cfg)
 
 	res, err := elastic.Info()
 
@@ -239,10 +326,6 @@ func main() {
 		log.Fatalf("Error: %s", res.String())
 	}
 
-	// Check response status
-	if res.IsError() {
-		log.Fatalf("Error: %s", res.String())
-	}
 	// Deserialize the response into a map.
 	if err := json.NewDecoder(res.Body).Decode(&r); err != nil {
 		log.Fatalf("Error parsing the response body: %s", err)
@@ -254,28 +337,18 @@ func main() {
 
 	log.Printf("Results: %s", r)
 
-	readCsv(elastic)
+	var fieldValue string
 
-	// req := esapi.IndexRequest{
-	// 	Index:      "test",
-	// 	DocumentID: strconv.Itoa(1),
-	// 	Body:       strings.NewReader(`{"title" : "Gumby"}`),
-	// 	Refresh:    "true",
-	// }
+	fieldValue = "Citywide"
 
-	// myres, err := req.Do(context.Background(), elastic)
-	// if err != nil {
-	// 	log.Fatalf("Error getting response: %s", err)
-	// }
-	// defer res.Body.Close()
+	if true {
+		search(elastic, &fieldValue)
 
-	// if res.IsError() {
-	// 	log.Printf("[%s] Error indexing document ID=1", myres.Status())
-	// } else {
-	// 	log.Printf("No error")
-	// }
+	} else {
 
-	// log.Println(strings.Repeat("~", 37))
+		readCsv(elastic)
+
+	}
 
 	log.Println("End of test")
 

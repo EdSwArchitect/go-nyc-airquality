@@ -2,15 +2,15 @@ package airquality
 
 // AirQuality data type
 type AirQuality struct {
-	IndicatorDataID  int32   `json:"indicator_data_id"`
-	IndicatorID      int32   `json:"indicator_id"`
-	Name             string  `json:"name"`
-	Measure          string  `json:"measure"`
-	GeoTypeName      string  `json:"geo_type_name"`
-	GeoEntityID      int32   `json:"geo_entity_id"`
-	GeoEntityName    string  `json:"geo_entity_name"`
-	YearDescription  string  `json:"year_description"`
-	DataValueMessage float32 `json:"data_value_message"`
+	IndicatorDataID  int32  `json:"indicator_data_id"`
+	IndicatorID      int32  `json:"indicator_id"`
+	Name             string `json:"name"`
+	Measure          string `json:"measure"`
+	GeoTypeName      string `json:"geo_type_name"`
+	GeoEntityID      string `json:"geo_entity_id"`
+	GeoEntityName    string `json:"geo_entity_name"`
+	YearDescription  string `json:"year_description"`
+	DataValueMessage string `json:"data_value_message"`
 }
 
 // indicator_data_id,  130728

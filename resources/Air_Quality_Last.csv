@@ -1,0 +1,812 @@
+indicator_data_id,indicator_id,name,Measure,geo_type_name,geo_entity_id,geo_entity_name,year_description,data_valuemessage
+131641,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,501,Port Richmond,Annual Average 2009-2010,9.3
+131642,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,502,Stapleton - St. George,Annual Average 2009-2010,9.2
+131643,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,503,Willowbrook,Annual Average 2009-2010,9.1
+131644,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,504,South Beach - Tottenville,Annual Average 2009-2010,9
+131645,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,Citywide,1,New York City,Annual Average 2009-2010,10.6
+131646,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,Borough,1,Bronx,Annual Average 2009-2010,10.8
+131647,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,Borough,2,Brooklyn,Annual Average 2009-2010,10.3
+131648,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,Borough,3,Manhattan,Annual Average 2009-2010,12.4
+131649,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,Borough,4,Queens,Annual Average 2009-2010,9.7
+131650,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,Borough,5,Staten Island,Annual Average 2009-2010,9.2
+131651,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,101,Kingsbridge - Riverdale,Annual Average 2009-2010,1.1
+131652,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,102,Northeast Bronx,Annual Average 2009-2010,1.1
+131653,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,103,Fordham - Bronx Pk,Annual Average 2009-2010,1.3
+131654,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,104,Pelham - Throgs Neck,Annual Average 2009-2010,1.2
+131655,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,105,Crotona -Tremont,Annual Average 2009-2010,1.5
+131656,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,106,High Bridge - Morrisania,Annual Average 2009-2010,1.5
+131657,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,107,Hunts Point - Mott Haven,Annual Average 2009-2010,1.4
+131658,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,201,Greenpoint,Annual Average 2009-2010,1.4
+131659,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,202,Downtown - Heights - Slope,Annual Average 2009-2010,1.3
+131660,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,203,Bedford Stuyvesant - Crown Heights,Annual Average 2009-2010,1.1
+131661,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,204,East New York,Annual Average 2009-2010,1.1
+131662,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,205,Sunset Park,Annual Average 2009-2010,1.2
+131663,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,206,Borough Park,Annual Average 2009-2010,1
+131664,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,207,East Flatbush - Flatbush,Annual Average 2009-2010,1
+131665,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,208,Canarsie - Flatlands,Annual Average 2009-2010,0.9
+131666,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,209,Bensonhurst - Bay Ridge,Annual Average 2009-2010,1
+131667,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,210,Coney Island - Sheepshead Bay,Annual Average 2009-2010,0.9
+131668,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,211,Williamsburg - Bushwick,Annual Average 2009-2010,1.2
+131669,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,301,Washington Heights,Annual Average 2009-2010,1.4
+131670,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,302,Central Harlem - Morningside Heights,Annual Average 2009-2010,1.3
+131671,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,303,East Harlem,Annual Average 2009-2010,1.4
+131672,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,304,Upper West Side,Annual Average 2009-2010,1.3
+131673,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,305,Upper East Side,Annual Average 2009-2010,1.5
+131674,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,306,Chelsea - Clinton,Annual Average 2009-2010,1.8
+131675,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,307,Gramercy Park - Murray Hill,Annual Average 2009-2010,1.8
+131676,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,308,Greenwich Village - SoHo,Annual Average 2009-2010,1.8
+131677,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,309,Union Square - Lower East Side,Annual Average 2009-2010,1.6
+131678,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,310,Lower Manhattan,Annual Average 2009-2010,1.5
+131679,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,401,Long Island City - Astoria,Annual Average 2009-2010,1.3
+131680,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,402,West Queens,Annual Average 2009-2010,1.3
+131681,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,403,Flushing - Clearview,Annual Average 2009-2010,1
+131682,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,404,Bayside - Little Neck,Annual Average 2009-2010,1
+131683,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,405,Ridgewood - Forest Hills,Annual Average 2009-2010,1
+131684,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,406,Fresh Meadows,Annual Average 2009-2010,1
+131685,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,407,Southwest Queens,Annual Average 2009-2010,1
+131686,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,408,Jamaica,Annual Average 2009-2010,1
+131687,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,409,Southeast Queens,Annual Average 2009-2010,0.9
+131688,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,410,Rockaways,Annual Average 2009-2010,0.7
+131689,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,501,Port Richmond,Annual Average 2009-2010,0.9
+131690,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,502,Stapleton - St. George,Annual Average 2009-2010,0.9
+131691,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,503,Willowbrook,Annual Average 2009-2010,0.9
+131692,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,504,South Beach - Tottenville,Annual Average 2009-2010,0.8
+131693,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,Citywide,1,New York City,Annual Average 2009-2010,1.2
+131694,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,Borough,1,Bronx,Annual Average 2009-2010,1.3
+131695,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,Borough,2,Brooklyn,Annual Average 2009-2010,1.1
+131696,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,Borough,3,Manhattan,Annual Average 2009-2010,1.5
+131697,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,Borough,4,Queens,Annual Average 2009-2010,1
+131698,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,Borough,5,Staten Island,Annual Average 2009-2010,0.9
+131699,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,101,Kingsbridge - Riverdale,Annual Average 2009-2010,18.5
+131700,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,102,Northeast Bronx,Annual Average 2009-2010,19.1
+131701,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,103,Fordham - Bronx Pk,Annual Average 2009-2010,24.1
+131702,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,104,Pelham - Throgs Neck,Annual Average 2009-2010,23
+131703,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,105,Crotona -Tremont,Annual Average 2009-2010,29.8
+131704,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,106,High Bridge - Morrisania,Annual Average 2009-2010,28.7
+131705,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,107,Hunts Point - Mott Haven,Annual Average 2009-2010,26.7
+131706,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,201,Greenpoint,Annual Average 2009-2010,29.6
+131707,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,202,Downtown - Heights - Slope,Annual Average 2009-2010,28.1
+131708,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,203,Bedford Stuyvesant - Crown Heights,Annual Average 2009-2010,29.8
+131709,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,204,East New York,Annual Average 2009-2010,24.5
+131710,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,205,Sunset Park,Annual Average 2009-2010,24.2
+131711,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,206,Borough Park,Annual Average 2009-2010,23.7
+131712,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,207,East Flatbush - Flatbush,Annual Average 2009-2010,26.5
+131713,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,208,Canarsie - Flatlands,Annual Average 2009-2010,18.4
+131714,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,209,Bensonhurst - Bay Ridge,Annual Average 2009-2010,20.6
+131715,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,210,Coney Island - Sheepshead Bay,Annual Average 2009-2010,18.1
+131716,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,211,Williamsburg - Bushwick,Annual Average 2009-2010,28.3
+131717,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,301,Washington Heights,Annual Average 2009-2010,36.4
+131718,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,302,Central Harlem - Morningside Heights,Annual Average 2009-2010,27.2
+131719,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,303,East Harlem,Annual Average 2009-2010,27.1
+131720,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,304,Upper West Side,Annual Average 2009-2010,37.8
+131721,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,305,Upper East Side,Annual Average 2009-2010,44.6
+131722,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,306,Chelsea - Clinton,Annual Average 2009-2010,53.6
+131723,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,307,Gramercy Park - Murray Hill,Annual Average 2009-2010,52.4
+131724,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,308,Greenwich Village - SoHo,Annual Average 2009-2010,49.6
+131725,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,309,Union Square - Lower East Side,Annual Average 2009-2010,39.7
+131726,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,310,Lower Manhattan,Annual Average 2009-2010,34.6
+131727,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,401,Long Island City - Astoria,Annual Average 2009-2010,30.5
+131728,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,402,West Queens,Annual Average 2009-2010,28.8
+131729,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,403,Flushing - Clearview,Annual Average 2009-2010,21.2
+131730,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,404,Bayside - Little Neck,Annual Average 2009-2010,19.1
+131731,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,405,Ridgewood - Forest Hills,Annual Average 2009-2010,25.6
+131732,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,406,Fresh Meadows,Annual Average 2009-2010,23.3
+131733,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,407,Southwest Queens,Annual Average 2009-2010,21.5
+131734,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,408,Jamaica,Annual Average 2009-2010,26
+131735,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,409,Southeast Queens,Annual Average 2009-2010,20.5
+131736,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,410,Rockaways,Annual Average 2009-2010,16
+131737,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,501,Port Richmond,Annual Average 2009-2010,17.2
+131738,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,502,Stapleton - St. George,Annual Average 2009-2010,15.5
+131739,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,503,Willowbrook,Annual Average 2009-2010,14.5
+131740,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,504,South Beach - Tottenville,Annual Average 2009-2010,13.5
+131741,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,Citywide,1,New York City,Annual Average 2009-2010,27.1
+131742,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,Borough,1,Bronx,Annual Average 2009-2010,24.3
+131743,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,Borough,2,Brooklyn,Annual Average 2009-2010,24.7
+131744,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,Borough,3,Manhattan,Annual Average 2009-2010,40.3
+131745,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,Borough,4,Queens,Annual Average 2009-2010,23.2
+131746,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,Borough,5,Staten Island,Annual Average 2009-2010,15.2
+131747,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,101,Kingsbridge - Riverdale,Annual Average 2009-2010,18.7
+131748,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,102,Northeast Bronx,Annual Average 2009-2010,21.3
+131749,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,103,Fordham - Bronx Pk,Annual Average 2009-2010,23
+131750,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,104,Pelham - Throgs Neck,Annual Average 2009-2010,21.6
+131751,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,105,Crotona -Tremont,Annual Average 2009-2010,25.6
+131752,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,106,High Bridge - Morrisania,Annual Average 2009-2010,26.8
+131753,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,107,Hunts Point - Mott Haven,Annual Average 2009-2010,25
+131754,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,201,Greenpoint,Annual Average 2009-2010,25.9
+131755,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,202,Downtown - Heights - Slope,Annual Average 2009-2010,26.8
+131756,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,203,Bedford Stuyvesant - Crown Heights,Annual Average 2009-2010,26.3
+131757,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,204,East New York,Annual Average 2009-2010,23.2
+131758,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,205,Sunset Park,Annual Average 2009-2010,23.8
+131759,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,206,Borough Park,Annual Average 2009-2010,24.7
+131760,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,207,East Flatbush - Flatbush,Annual Average 2009-2010,24.7
+131761,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,208,Canarsie - Flatlands,Annual Average 2009-2010,20.9
+131762,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,209,Bensonhurst - Bay Ridge,Annual Average 2009-2010,23.3
+131763,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,210,Coney Island - Sheepshead Bay,Annual Average 2009-2010,22.3
+131764,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,211,Williamsburg - Bushwick,Annual Average 2009-2010,26.3
+131765,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,301,Washington Heights,Annual Average 2009-2010,25.9
+131766,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,302,Central Harlem - Morningside Heights,Annual Average 2009-2010,27.8
+131767,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,303,East Harlem,Annual Average 2009-2010,27.4
+131768,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,304,Upper West Side,Annual Average 2009-2010,29.3
+131769,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,305,Upper East Side,Annual Average 2009-2010,33.2
+131770,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,306,Chelsea - Clinton,Annual Average 2009-2010,38.2
+131771,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,307,Gramercy Park - Murray Hill,Annual Average 2009-2010,41.8
+131772,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,308,Greenwich Village - SoHo,Annual Average 2009-2010,32.6
+131773,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,309,Union Square - Lower East Side,Annual Average 2009-2010,30.7
+131774,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,310,Lower Manhattan,Annual Average 2009-2010,34.8
+131775,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,401,Long Island City - Astoria,Annual Average 2009-2010,24.8
+131776,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,402,West Queens,Annual Average 2009-2010,24.9
+131777,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,403,Flushing - Clearview,Annual Average 2009-2010,21.3
+131778,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,404,Bayside - Little Neck,Annual Average 2009-2010,19.2
+131779,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,405,Ridgewood - Forest Hills,Annual Average 2009-2010,22.4
+131780,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,406,Fresh Meadows,Annual Average 2009-2010,21.6
+131781,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,407,Southwest Queens,Annual Average 2009-2010,22.2
+131782,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,408,Jamaica,Annual Average 2009-2010,22.8
+131783,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,409,Southeast Queens,Annual Average 2009-2010,20.9
+131784,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,410,Rockaways,Annual Average 2009-2010,18.8
+131785,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,501,Port Richmond,Annual Average 2009-2010,19.8
+131786,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,502,Stapleton - St. George,Annual Average 2009-2010,17.8
+131787,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,503,Willowbrook,Annual Average 2009-2010,16.3
+131788,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,504,South Beach - Tottenville,Annual Average 2009-2010,15.7
+131789,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,Citywide,1,New York City,Annual Average 2009-2010,24.8
+131790,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,Borough,1,Bronx,Annual Average 2009-2010,23.1
+131791,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,Borough,2,Brooklyn,Annual Average 2009-2010,24.4
+131792,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,Borough,3,Manhattan,Annual Average 2009-2010,32.2
+131793,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,Borough,4,Queens,Annual Average 2009-2010,21.9
+131794,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,Borough,5,Staten Island,Annual Average 2009-2010,17.4
+131795,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,101,Kingsbridge - Riverdale,Annual Average 2009-2010,28.4
+131796,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,102,Northeast Bronx,Annual Average 2009-2010,28.6
+131797,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,103,Fordham - Bronx Pk,Annual Average 2009-2010,27.5
+131798,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,104,Pelham - Throgs Neck,Annual Average 2009-2010,28.7
+131799,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,105,Crotona -Tremont,Annual Average 2009-2010,26.7
+131800,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,106,High Bridge - Morrisania,Annual Average 2009-2010,26.3
+131801,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,107,Hunts Point - Mott Haven,Annual Average 2009-2010,27.7
+131802,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,201,Greenpoint,Annual Average 2009-2010,27.1
+131803,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,202,Downtown - Heights - Slope,Annual Average 2009-2010,26.1
+131804,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,203,Bedford Stuyvesant - Crown Heights,Annual Average 2009-2010,26.4
+131805,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,204,East New York,Annual Average 2009-2010,28
+131806,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,205,Sunset Park,Annual Average 2009-2010,27.7
+131807,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,206,Borough Park,Annual Average 2009-2010,27.1
+131808,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,207,East Flatbush - Flatbush,Annual Average 2009-2010,27.1
+131809,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,208,Canarsie - Flatlands,Annual Average 2009-2010,29
+131810,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,209,Bensonhurst - Bay Ridge,Annual Average 2009-2010,28
+131811,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,210,Coney Island - Sheepshead Bay,Annual Average 2009-2010,28.4
+131812,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,211,Williamsburg - Bushwick,Annual Average 2009-2010,26.6
+131813,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,301,Washington Heights,Annual Average 2009-2010,25.9
+131814,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,302,Central Harlem - Morningside Heights,Annual Average 2009-2010,25.4
+131815,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,303,East Harlem,Annual Average 2009-2010,25.7
+131816,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,304,Upper West Side,Annual Average 2009-2010,24.4
+131817,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,305,Upper East Side,Annual Average 2009-2010,23
+131818,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,306,Chelsea - Clinton,Annual Average 2009-2010,21.3
+131819,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,307,Gramercy Park - Murray Hill,Annual Average 2009-2010,19.3
+131820,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,308,Greenwich Village - SoHo,Annual Average 2009-2010,23.8
+131821,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,309,Union Square - Lower East Side,Annual Average 2009-2010,23.9
+131822,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,310,Lower Manhattan,Annual Average 2009-2010,22.7
+131823,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,401,Long Island City - Astoria,Annual Average 2009-2010,27.6
+131824,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,402,West Queens,Annual Average 2009-2010,27.3
+131825,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,403,Flushing - Clearview,Annual Average 2009-2010,28.6
+131826,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,404,Bayside - Little Neck,Annual Average 2009-2010,28.5
+131827,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,405,Ridgewood - Forest Hills,Annual Average 2009-2010,27.9
+131828,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,406,Fresh Meadows,Annual Average 2009-2010,28
+131829,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,407,Southwest Queens,Annual Average 2009-2010,28.4
+131830,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,408,Jamaica,Annual Average 2009-2010,27.8
+131831,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,409,Southeast Queens,Annual Average 2009-2010,28.7
+131832,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,410,Rockaways,Annual Average 2009-2010,30.5
+131833,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,501,Port Richmond,Annual Average 2009-2010,29.2
+131834,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,502,Stapleton - St. George,Annual Average 2009-2010,29.4
+131835,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,503,Willowbrook,Annual Average 2009-2010,30.3
+131836,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,504,South Beach - Tottenville,Annual Average 2009-2010,30.3
+131837,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,Citywide,1,New York City,Annual Average 2009-2010,27
+131838,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,Borough,1,Bronx,Annual Average 2009-2010,27.7
+131839,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,Borough,2,Brooklyn,Annual Average 2009-2010,27.4
+131840,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,Borough,3,Manhattan,Annual Average 2009-2010,23.5
+131841,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,Borough,4,Queens,Annual Average 2009-2010,28.3
+131842,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,Borough,5,Staten Island,Annual Average 2009-2010,29.8
+134779,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,101,Kingsbridge - Riverdale,2-Year Winter Average 2009-2010,5.4
+134780,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,102,Northeast Bronx,2-Year Winter Average 2009-2010,4.8
+134781,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,103,Fordham - Bronx Pk,2-Year Winter Average 2009-2010,9.1
+134782,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,104,Pelham - Throgs Neck,2-Year Winter Average 2009-2010,4.8
+134783,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,105,Crotona -Tremont,2-Year Winter Average 2009-2010,9.3
+134784,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,106,High Bridge - Morrisania,2-Year Winter Average 2009-2010,7.5
+134785,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,107,Hunts Point - Mott Haven,2-Year Winter Average 2009-2010,4.8
+134786,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,201,Greenpoint,2-Year Winter Average 2009-2010,4.2
+134787,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,202,Downtown - Heights - Slope,2-Year Winter Average 2009-2010,3.3
+134788,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,203,Bedford Stuyvesant - Crown Heights,2-Year Winter Average 2009-2010,4.1
+134789,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,204,East New York,2-Year Winter Average 2009-2010,3.5
+134790,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,205,Sunset Park,2-Year Winter Average 2009-2010,3.4
+134791,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,206,Borough Park,2-Year Winter Average 2009-2010,4
+134792,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,207,East Flatbush - Flatbush,2-Year Winter Average 2009-2010,4.2
+134793,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,208,Canarsie - Flatlands,2-Year Winter Average 2009-2010,2.8
+134794,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,209,Bensonhurst - Bay Ridge,2-Year Winter Average 2009-2010,3.3
+134795,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,210,Coney Island - Sheepshead Bay,2-Year Winter Average 2009-2010,2.9
+134796,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,211,Williamsburg - Bushwick,2-Year Winter Average 2009-2010,4.3
+134797,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,301,Washington Heights,2-Year Winter Average 2009-2010,9.1
+134798,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,302,Central Harlem - Morningside Heights,2-Year Winter Average 2009-2010,6.7
+134799,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,303,East Harlem,2-Year Winter Average 2009-2010,6.7
+134800,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,304,Upper West Side,2-Year Winter Average 2009-2010,8.2
+134801,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,305,Upper East Side,2-Year Winter Average 2009-2010,10.3
+134802,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,306,Chelsea - Clinton,2-Year Winter Average 2009-2010,6.1
+134803,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,307,Gramercy Park - Murray Hill,2-Year Winter Average 2009-2010,8.5
+134804,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,308,Greenwich Village - SoHo,2-Year Winter Average 2009-2010,5.7
+134805,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,309,Union Square - Lower East Side,2-Year Winter Average 2009-2010,6.4
+134806,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,310,Lower Manhattan,2-Year Winter Average 2009-2010,3.6
+134807,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,401,Long Island City - Astoria,2-Year Winter Average 2009-2010,5.3
+134808,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,402,West Queens,2-Year Winter Average 2009-2010,4.4
+134809,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,403,Flushing - Clearview,2-Year Winter Average 2009-2010,3.1
+134810,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,404,Bayside - Little Neck,2-Year Winter Average 2009-2010,2.8
+134811,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,405,Ridgewood - Forest Hills,2-Year Winter Average 2009-2010,3.7
+134812,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,406,Fresh Meadows,2-Year Winter Average 2009-2010,2.9
+134813,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,407,Southwest Queens,2-Year Winter Average 2009-2010,3.3
+134814,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,408,Jamaica,2-Year Winter Average 2009-2010,3
+134815,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,409,Southeast Queens,2-Year Winter Average 2009-2010,2.6
+134816,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,410,Rockaways,2-Year Winter Average 2009-2010,2.6
+134817,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,501,Port Richmond,2-Year Winter Average 2009-2010,2.2
+134818,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,502,Stapleton - St. George,2-Year Winter Average 2009-2010,2.3
+134819,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,503,Willowbrook,2-Year Winter Average 2009-2010,1.8
+134820,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,504,South Beach - Tottenville,2-Year Winter Average 2009-2010,1.8
+134821,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,Citywide,1,New York City,2-Year Winter Average 2009-2010,4.7
+134822,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,Borough,1,Bronx,2-Year Winter Average 2009-2010,6.5
+134823,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,Borough,2,Brooklyn,2-Year Winter Average 2009-2010,3.6
+134824,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,Borough,3,Manhattan,2-Year Winter Average 2009-2010,7.1
+134825,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,Borough,4,Queens,2-Year Winter Average 2009-2010,3.4
+134826,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,Borough,5,Staten Island,2-Year Winter Average 2009-2010,2
+151383,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,101,Kingsbridge - Riverdale,2009-2011,8.6
+151384,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,102,Northeast Bronx,2009-2011,5.4
+151385,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,103,Fordham - Bronx Pk,2009-2011,4
+151386,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,104,Pelham - Throgs Neck,2009-2011,4.5
+151387,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,105,Crotona -Tremont,2009-2011,2.7
+151388,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,106,High Bridge - Morrisania,2009-2011,2.8
+151389,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,107,Hunts Point - Mott Haven,2009-2011,3.1
+151390,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,201,Greenpoint,2009-2011,3.6
+151391,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,202,Downtown - Heights - Slope,2009-2011,4.2
+151392,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,4.8
+151393,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,204,East New York,2009-2011,3.5
+151394,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,205,Sunset Park,2009-2011,4.1
+151395,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,206,Borough Park,2009-2011,5.3
+151396,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,207,East Flatbush - Flatbush,2009-2011,3.9
+151397,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,208,Canarsie - Flatlands,2009-2011,5.7
+151398,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,7.2
+151399,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,8.9
+151400,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,211,Williamsburg - Bushwick,2009-2011,3.7
+151401,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,301,Washington Heights,2009-2011,3.2
+151402,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,302,Central Harlem - Morningside Heights,2009-2011,4.3
+151403,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,303,East Harlem,2009-2011,4.7
+151404,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,304,Upper West Side,2009-2011,4.1
+151405,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,305,Upper East Side,2009-2011,4
+151406,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,306,Chelsea - Clinton,2009-2011,3.4
+151407,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,307,Gramercy Park - Murray Hill,2009-2011,3.6
+151408,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,308,Greenwich Village - SoHo,2009-2011,3.4
+151409,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,309,Union Square - Lower East Side,2009-2011,4
+151410,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,310,Lower Manhattan,2009-2011,2.8
+151411,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,401,Long Island City - Astoria,2009-2011,3.5
+151412,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,402,West Queens,2009-2011,3
+151413,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,403,Flushing - Clearview,2009-2011,5.4
+151414,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,404,Bayside - Little Neck,2009-2011,4.5
+151415,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,405,Ridgewood - Forest Hills,2009-2011,5.5
+151416,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,406,Fresh Meadows,2009-2011,4.8
+151417,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,407,Southwest Queens,2009-2011,4
+151418,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,408,Jamaica,2009-2011,5.2
+151419,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,409,Southeast Queens,2009-2011,4.3
+151420,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,410,Rockaways,2009-2011,9
+151421,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,501,Port Richmond,2009-2011,5.7
+151422,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,502,Stapleton - St. George,2009-2011,8.4
+151423,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,503,Willowbrook,2009-2011,9.7
+151424,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,UHF42,504,South Beach - Tottenville,2009-2011,7.3
+151425,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,Citywide,1,New York City,2009-2011,4.7
+151426,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,Borough,1,Bronx,2009-2011,4.1
+151427,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,Borough,2,Brooklyn,2009-2011,5.2
+151428,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,Borough,3,Manhattan,2009-2011,3.8
+151429,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,Borough,4,Queens,2009-2011,4.5
+151430,652,O3-Attributable Cardiac and Respiratory Deaths ,Rate,Borough,5,Staten Island,2009-2011,7.8
+151431,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,101,Kingsbridge - Riverdale,2009-2011,66.2
+151432,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,102,Northeast Bronx,2009-2011,79.3
+151433,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,103,Fordham - Bronx Pk,2009-2011,125
+151434,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,104,Pelham - Throgs Neck,2009-2011,116
+151435,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,105,Crotona -Tremont,2009-2011,183.9
+151436,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,106,High Bridge - Morrisania,2009-2011,202
+151437,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,107,Hunts Point - Mott Haven,2009-2011,206.3
+151438,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,201,Greenpoint,2009-2011,58.6
+151439,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,202,Downtown - Heights - Slope,2009-2011,95.3
+151440,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,191.4
+151441,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,204,East New York,2009-2011,164
+151442,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,205,Sunset Park,2009-2011,59.5
+151443,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,206,Borough Park,2009-2011,22.7
+151444,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,207,East Flatbush - Flatbush,2009-2011,129.2
+151445,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,208,Canarsie - Flatlands,2009-2011,97.7
+151446,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,24.9
+151447,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,42.3
+151448,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,211,Williamsburg - Bushwick,2009-2011,185.8
+151449,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,301,Washington Heights,2009-2011,130.2
+151450,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,302,Central Harlem - Morningside Heights,2009-2011,269.9
+151451,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,303,East Harlem,2009-2011,276
+151452,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,304,Upper West Side,2009-2011,69.8
+151453,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,305,Upper East Side,2009-2011,35.4
+151454,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,306,Chelsea - Clinton,2009-2011,91.6
+151455,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,307,Gramercy Park - Murray Hill,2009-2011,70
+151456,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,308,Greenwich Village - SoHo,2009-2011,24.2
+151457,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,309,Union Square - Lower East Side,2009-2011,144
+151458,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,310,Lower Manhattan,2009-2011,56.8
+151459,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,401,Long Island City - Astoria,2009-2011,75
+151460,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,402,West Queens,2009-2011,72.4
+151461,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,403,Flushing - Clearview,2009-2011,40
+151462,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,404,Bayside - Little Neck,2009-2011,27.5
+151463,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,405,Ridgewood - Forest Hills,2009-2011,56.3
+151464,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,406,Fresh Meadows,2009-2011,60.9
+151465,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,407,Southwest Queens,2009-2011,89
+151466,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,408,Jamaica,2009-2011,144.7
+151467,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,409,Southeast Queens,2009-2011,90.2
+151468,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,410,Rockaways,2009-2011,137.4
+151469,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,501,Port Richmond,2009-2011,118.8
+151470,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,502,Stapleton - St. George,2009-2011,101.7
+151471,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,503,Willowbrook,2009-2011,47.3
+151472,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,504,South Beach - Tottenville,2009-2011,29.8
+151473,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Citywide,1,New York City,2009-2011,108.6
+151474,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,1,Bronx,2009-2011,146.7
+151475,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,2,Brooklyn,2009-2011,101
+151476,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,3,Manhattan,2009-2011,135.7
+151477,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,4,Queens,2009-2011,84.1
+151478,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,5,Staten Island,2009-2011,67.9
+151479,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,101,Kingsbridge - Riverdale,2009-2011,26.5
+151480,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,102,Northeast Bronx,2009-2011,42.2
+151481,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,103,Fordham - Bronx Pk,2009-2011,73.6
+151482,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,104,Pelham - Throgs Neck,2009-2011,58.1
+151483,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,105,Crotona -Tremont,2009-2011,127.4
+151484,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,106,High Bridge - Morrisania,2009-2011,113.1
+151485,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,107,Hunts Point - Mott Haven,2009-2011,119.1
+151486,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,201,Greenpoint,2009-2011,26.9
+151487,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,202,Downtown - Heights - Slope,2009-2011,43.5
+151488,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,105.4
+151489,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,204,East New York,2009-2011,95
+151490,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,205,Sunset Park,2009-2011,39.1
+151491,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,206,Borough Park,2009-2011,15.4
+151492,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,207,East Flatbush - Flatbush,2009-2011,65.9
+151493,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,208,Canarsie - Flatlands,2009-2011,49.8
+151494,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,13.7
+151495,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,24
+151496,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,211,Williamsburg - Bushwick,2009-2011,113.7
+151497,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,301,Washington Heights,2009-2011,41.7
+151498,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,302,Central Harlem - Morningside Heights,2009-2011,130.4
+151499,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,303,East Harlem,2009-2011,135.2
+151500,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,304,Upper West Side,2009-2011,24.1
+151501,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,305,Upper East Side,2009-2011,9.3
+151502,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,306,Chelsea - Clinton,2009-2011,24.6
+151503,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,307,Gramercy Park - Murray Hill,2009-2011,19.6
+151504,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,308,Greenwich Village - SoHo,2009-2011,8.9
+151505,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,309,Union Square - Lower East Side,2009-2011,42.5
+151506,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,310,Lower Manhattan,2009-2011,27
+151507,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,401,Long Island City - Astoria,2009-2011,27.1
+151508,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,402,West Queens,2009-2011,16.1
+151509,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,403,Flushing - Clearview,2009-2011,10.5
+151510,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,404,Bayside - Little Neck,2009-2011,7.8
+151511,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,405,Ridgewood - Forest Hills,2009-2011,16.6
+151512,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,406,Fresh Meadows,2009-2011,20.7
+151513,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,407,Southwest Queens,2009-2011,35
+151514,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,408,Jamaica,2009-2011,54.1
+151515,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,409,Southeast Queens,2009-2011,35.5
+151516,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,410,Rockaways,2009-2011,59.7
+151517,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,501,Port Richmond,2009-2011,84.7
+151518,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,502,Stapleton - St. George,2009-2011,58.1
+151519,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,503,Willowbrook,2009-2011,22.3
+151520,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,504,South Beach - Tottenville,2009-2011,15.9
+151521,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Citywide,1,New York City,2009-2011,47.4
+151522,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,1,Bronx,2009-2011,79.8
+151523,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,2,Brooklyn,2009-2011,54
+151524,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,3,Manhattan,2009-2011,43.2
+151525,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,4,Queens,2009-2011,27
+151526,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,5,Staten Island,2009-2011,37.9
+151527,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,101,Kingsbridge - Riverdale,2009-2011,22.3
+151528,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,102,Northeast Bronx,2009-2011,32.2
+151529,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,103,Fordham - Bronx Pk,2009-2011,43.6
+151530,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,104,Pelham - Throgs Neck,2009-2011,34.2
+151531,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,105,Crotona -Tremont,2009-2011,39.6
+151532,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,106,High Bridge - Morrisania,2009-2011,38.2
+151533,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,107,Hunts Point - Mott Haven,2009-2011,43.6
+151534,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,201,Greenpoint,2009-2011,10.3
+151535,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,202,Downtown - Heights - Slope,2009-2011,20.5
+151536,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,40.2
+151537,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,204,East New York,2009-2011,29.8
+151538,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,205,Sunset Park,2009-2011,10.8
+151539,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,206,Borough Park,2009-2011,5.1
+151540,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,207,East Flatbush - Flatbush,2009-2011,26.9
+151541,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,208,Canarsie - Flatlands,2009-2011,21.5
+151542,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,5
+151543,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,8.1
+151544,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,211,Williamsburg - Bushwick,2009-2011,41.2
+151545,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,301,Washington Heights,2009-2011,18.3
+151546,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,302,Central Harlem - Morningside Heights,2009-2011,38.1
+151547,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,303,East Harlem,2009-2011,42.3
+151548,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,304,Upper West Side,2009-2011,11.5
+151549,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,305,Upper East Side,2009-2011,9.4
+151550,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,306,Chelsea - Clinton,2009-2011,14.1
+151551,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,307,Gramercy Park - Murray Hill,2009-2011,10.6
+151552,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,308,Greenwich Village - SoHo,2009-2011,6.2
+151553,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,309,Union Square - Lower East Side,2009-2011,14.2
+151554,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,310,Lower Manhattan,2009-2011,9.5
+151555,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,401,Long Island City - Astoria,2009-2011,13.2
+151556,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,402,West Queens,2009-2011,9.2
+151557,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,403,Flushing - Clearview,2009-2011,11.2
+151558,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,404,Bayside - Little Neck,2009-2011,8.5
+151559,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,405,Ridgewood - Forest Hills,2009-2011,16
+151560,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,406,Fresh Meadows,2009-2011,13.6
+151561,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,407,Southwest Queens,2009-2011,18.6
+151562,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,408,Jamaica,2009-2011,28.3
+151563,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,409,Southeast Queens,2009-2011,26.2
+151564,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,410,Rockaways,2009-2011,23.6
+151565,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,501,Port Richmond,2009-2011,21.2
+151566,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,502,Stapleton - St. George,2009-2011,16
+151567,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,503,Willowbrook,2009-2011,10
+151568,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,504,South Beach - Tottenville,2009-2011,7.2
+151569,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Citywide,1,New York City,2009-2011,22.7
+151570,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,1,Bronx,2009-2011,37.8
+151571,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,2,Brooklyn,2009-2011,20.9
+151572,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,3,Manhattan,2009-2011,19.9
+151573,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,4,Queens,2009-2011,17
+151574,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,5,Staten Island,2009-2011,12.5
+151575,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,101,Kingsbridge - Riverdale,2009-2011,7.5
+151576,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,102,Northeast Bronx,2009-2011,9.8
+151577,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,103,Fordham - Bronx Pk,2009-2011,14.4
+151578,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,104,Pelham - Throgs Neck,2009-2011,11.7
+151579,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,105,Crotona -Tremont,2009-2011,18.9
+151580,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,106,High Bridge - Morrisania,2009-2011,16.4
+151581,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,107,Hunts Point - Mott Haven,2009-2011,16
+151582,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,201,Greenpoint,2009-2011,3.5
+151583,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,202,Downtown - Heights - Slope,2009-2011,6.6
+151584,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,13.5
+151585,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,204,East New York,2009-2011,11.5
+151586,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,205,Sunset Park,2009-2011,6.5
+151587,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,206,Borough Park,2009-2011,3.8
+151588,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,207,East Flatbush - Flatbush,2009-2011,7.3
+151589,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,208,Canarsie - Flatlands,2009-2011,7.1
+151590,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,2.9
+151591,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,6
+151592,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,211,Williamsburg - Bushwick,2009-2011,13.6
+151593,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,301,Washington Heights,2009-2011,5.8
+151594,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,302,Central Harlem - Morningside Heights,2009-2011,10.3
+151595,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,303,East Harlem,2009-2011,17.4
+151596,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,304,Upper West Side,2009-2011,2.8
+151597,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,305,Upper East Side,2009-2011,1.4
+151598,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,306,Chelsea - Clinton,2009-2011,2.8
+151599,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,307,Gramercy Park - Murray Hill,2009-2011,2.1
+151600,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,308,Greenwich Village - SoHo,2009-2011,1
+151601,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,309,Union Square - Lower East Side,2009-2011,5.6
+151602,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,310,Lower Manhattan,2009-2011,2.6
+151603,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,401,Long Island City - Astoria,2009-2011,4.1
+151604,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,402,West Queens,2009-2011,3
+151605,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,403,Flushing - Clearview,2009-2011,2.6
+151606,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,404,Bayside - Little Neck,2009-2011,2.2
+151607,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,405,Ridgewood - Forest Hills,2009-2011,3.4
+151608,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,406,Fresh Meadows,2009-2011,3.7
+151609,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,407,Southwest Queens,2009-2011,4.1
+151610,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,408,Jamaica,2009-2011,7.5
+151611,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,409,Southeast Queens,2009-2011,5
+151612,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,410,Rockaways,2009-2011,9
+151613,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,501,Port Richmond,2009-2011,12.1
+151614,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,502,Stapleton - St. George,2009-2011,9.5
+151615,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,503,Willowbrook,2009-2011,4.7
+151616,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,504,South Beach - Tottenville,2009-2011,4.2
+151617,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Citywide,1,New York City,2009-2011,7
+151618,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,1,Bronx,2009-2011,13.7
+151619,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,2,Brooklyn,2009-2011,7.6
+151620,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,3,Manhattan,2009-2011,4.9
+151621,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,4,Queens,2009-2011,4.2
+151622,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,5,Staten Island,2009-2011,6.8
+151623,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,101,Kingsbridge - Riverdale,2005,24.6
+151624,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,102,Northeast Bronx,2005,16.7
+151625,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,103,Fordham - Bronx Pk,2005,23.8
+151626,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,104,Pelham - Throgs Neck,2005,22.8
+151627,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,105,Crotona -Tremont,2005,39.6
+151628,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,106,High Bridge - Morrisania,2005,36.1
+151629,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,107,Hunts Point - Mott Haven,2005,21.3
+151630,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,201,Greenpoint,2005,30.2
+151631,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,202,Downtown - Heights - Slope,2005,41.7
+151632,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,203,Bedford Stuyvesant - Crown Heights,2005,33.8
+151633,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,204,East New York,2005,20.1
+151634,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,205,Sunset Park,2005,30.7
+151635,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,206,Borough Park,2005,21.6
+151636,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,207,East Flatbush - Flatbush,2005,26.3
+151637,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,208,Canarsie - Flatlands,2005,16
+151638,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,209,Bensonhurst - Bay Ridge,2005,23.1
+151639,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,210,Coney Island - Sheepshead Bay,2005,15.9
+151640,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,211,Williamsburg - Bushwick,2005,15.5
+151641,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,301,Washington Heights,2005,44.4
+151642,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,302,Central Harlem - Morningside Heights,2005,36.9
+151643,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,303,East Harlem,2005,53.1
+151644,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,304,Upper West Side,2005,49.5
+151645,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,305,Upper East Side,2005,54.7
+151646,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,306,Chelsea - Clinton,2005,46.1
+151647,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,307,Gramercy Park - Murray Hill,2005,78.6
+151648,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,308,Greenwich Village - SoHo,2005,47.5
+151649,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,309,Union Square - Lower East Side,2005,52.9
+151650,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,310,Lower Manhattan,2005,39.8
+151651,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,401,Long Island City - Astoria,2005,18.6
+151652,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,402,West Queens,2005,40.8
+151653,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,403,Flushing - Clearview,2005,19.6
+151654,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,404,Bayside - Little Neck,2005,33.8
+151655,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,405,Ridgewood - Forest Hills,2005,26.3
+151656,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,406,Fresh Meadows,2005,34.3
+151657,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,407,Southwest Queens,2005,21.9
+151658,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,408,Jamaica,2005,19.4
+151659,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,409,Southeast Queens,2005,26.4
+151660,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,410,Rockaways,2005,4.9
+151661,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,501,Port Richmond,2005,7.7
+151662,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,502,Stapleton - St. George,2005,13.9
+151663,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,503,Willowbrook,2005,13.1
+151664,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,UHF42,504,South Beach - Tottenville,2005,6.2
+151665,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,Citywide,1,New York City,2005,24
+151666,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,Borough,1,Bronx,2005,50.6
+151667,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,Borough,2,Brooklyn,2005,26.3
+151668,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,Borough,3,Manhattan,2005,24.9
+151669,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,Borough,4,Queens,2005,24.4
+151670,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,Borough,5,Staten Island,2005,10.4
+151671,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,101,Kingsbridge - Riverdale,2005,22.6
+151672,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,102,Northeast Bronx,2005,14.6
+151673,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,103,Fordham - Bronx Pk,2005,22.8
+151674,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,104,Pelham - Throgs Neck,2005,20.6
+151675,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,105,Crotona -Tremont,2005,36.3
+151676,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,106,High Bridge - Morrisania,2005,33
+151677,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,107,Hunts Point - Mott Haven,2005,19.8
+151678,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,201,Greenpoint,2005,28.2
+151679,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,202,Downtown - Heights - Slope,2005,38.8
+151680,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,203,Bedford Stuyvesant - Crown Heights,2005,32.6
+151681,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,204,East New York,2005,17.7
+151682,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,205,Sunset Park,2005,28.8
+151683,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,206,Borough Park,2005,20.5
+151684,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,207,East Flatbush - Flatbush,2005,25.3
+151685,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,208,Canarsie - Flatlands,2005,15.5
+151686,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,209,Bensonhurst - Bay Ridge,2005,22
+151687,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,210,Coney Island - Sheepshead Bay,2005,15.1
+151688,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,211,Williamsburg - Bushwick,2005,14.8
+151689,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,301,Washington Heights,2005,42.6
+151690,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,302,Central Harlem - Morningside Heights,2005,35.7
+151691,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,303,East Harlem,2005,50.6
+151692,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,304,Upper West Side,2005,47.2
+151693,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,305,Upper East Side,2005,51.2
+151694,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,306,Chelsea - Clinton,2005,42
+151695,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,307,Gramercy Park - Murray Hill,2005,72.8
+151696,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,308,Greenwich Village - SoHo,2005,43.5
+151697,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,309,Union Square - Lower East Side,2005,49.3
+151698,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,310,Lower Manhattan,2005,37.6
+151699,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,401,Long Island City - Astoria,2005,17.3
+151700,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,402,West Queens,2005,38.7
+151701,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,403,Flushing - Clearview,2005,18.3
+151702,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,404,Bayside - Little Neck,2005,31.7
+151703,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,405,Ridgewood - Forest Hills,2005,25.1
+151704,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,406,Fresh Meadows,2005,32.1
+151705,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,407,Southwest Queens,2005,20.4
+151706,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,408,Jamaica,2005,18.6
+151707,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,409,Southeast Queens,2005,25.8
+151708,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,410,Rockaways,2005,4.7
+151709,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,501,Port Richmond,2005,7.3
+151710,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,502,Stapleton - St. George,2005,13
+151711,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,503,Willowbrook,2005,12.2
+151712,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,UHF42,504,South Beach - Tottenville,2005,5.8
+151713,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,Citywide,1,New York City,2005,22.6
+151714,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,Borough,1,Bronx,2005,47.5
+151715,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,Borough,2,Brooklyn,2005,24.1
+151716,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,Borough,3,Manhattan,2005,23.5
+151717,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,Borough,4,Queens,2005,23.2
+151718,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,Borough,5,Staten Island,2005,9.7
+151719,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,101,Kingsbridge - Riverdale,2005,1.9
+151720,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,102,Northeast Bronx,2005,1.9
+151721,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,103,Fordham - Bronx Pk,2005,0.7
+151722,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,104,Pelham - Throgs Neck,2005,2.1
+151723,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,105,Crotona -Tremont,2005,3
+151724,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,106,High Bridge - Morrisania,2005,2.8
+151725,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,107,Hunts Point - Mott Haven,2005,1.4
+151726,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,201,Greenpoint,2005,2
+151727,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,202,Downtown - Heights - Slope,2005,2.7
+151728,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,203,Bedford Stuyvesant - Crown Heights,2005,1.1
+151729,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,204,East New York,2005,2.3
+151730,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,205,Sunset Park,2005,1.8
+151731,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,206,Borough Park,2005,1.1
+151732,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,207,East Flatbush - Flatbush,2005,0.9
+151733,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,208,Canarsie - Flatlands,2005,0.4
+151734,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,209,Bensonhurst - Bay Ridge,2005,1
+151735,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,210,Coney Island - Sheepshead Bay,2005,0.6
+151736,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,211,Williamsburg - Bushwick,2005,0.5
+151737,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,301,Washington Heights,2005,1.6
+151738,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,302,Central Harlem - Morningside Heights,2005,0.9
+151739,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,303,East Harlem,2005,2.1
+151740,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,304,Upper West Side,2005,1.9
+151741,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,305,Upper East Side,2005,2.9
+151742,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,306,Chelsea - Clinton,2005,3.4
+151743,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,307,Gramercy Park - Murray Hill,2005,4.4
+151744,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,308,Greenwich Village - SoHo,2005,3.8
+151745,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,309,Union Square - Lower East Side,2005,3.2
+151746,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,310,Lower Manhattan,2005,1.6
+151747,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,401,Long Island City - Astoria,2005,1.2
+151748,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,402,West Queens,2005,2
+151749,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,403,Flushing - Clearview,2005,1.2
+151750,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,404,Bayside - Little Neck,2005,2
+151751,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,405,Ridgewood - Forest Hills,2005,1
+151752,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,406,Fresh Meadows,2005,2.1
+151753,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,407,Southwest Queens,2005,1.4
+151754,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,408,Jamaica,2005,0.6
+151755,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,409,Southeast Queens,2005,0.5
+151756,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,410,Rockaways,2005,0.2
+151757,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,501,Port Richmond,2005,0.3
+151758,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,502,Stapleton - St. George,2005,0.8
+151759,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,503,Willowbrook,2005,0.8
+151760,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,UHF42,504,South Beach - Tottenville,2005,0.3
+151761,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,Citywide,1,New York City,2005,1.3
+151762,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,Borough,1,Bronx,2005,2.5
+151763,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,Borough,2,Brooklyn,2005,2.1
+151764,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,Borough,3,Manhattan,2005,1.2
+151765,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,Borough,4,Queens,2005,1.1
+151766,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,Borough,5,Staten Island,2005,0.6
+154442,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,101,Battery Park City, Tribeca,2005
+154443,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,102,Greenwich Village, SOHO,2005
+154444,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,103,Lower East Side, Chinatown,2005
+154445,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,104,Chelsea, Clinton,2005
+154446,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,105,Midtown Business District,2005,4.1
+154447,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,106,Stuyvesant Town, Turtle Bay,2005
+154448,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,107,West Side, Upper West Side,2005
+154449,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,108,Upper East Side,2005,3.5
+154450,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,109,Manhattanville, Hamilton Heights,2005
+154451,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,110,Central Harlem,2005,0.8
+154452,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,111,East Harlem,2005,2.1
+154453,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,112,Washington Heights, Inwood,2005
+154454,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,201,Melrose, Mott Haven,
+154455,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,202,Hunts Point, Longwood,2005
+154456,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,203,Morrisania, Crotona Park East,2005
+154457,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,204,Highbridge, Concourse Village,2005
+154458,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,205,University Hts., Fordham,
+154459,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,206,East Tremont, Belmont,2005
+154460,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,207,Bedford Park, Norwood,
+154461,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,208,Riverdale, Kingsbridge,
+154462,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,209,Soundview, Parkchester,2005
+154463,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,210,Throgs Nk.,Co-op City,
+154464,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,211,Pelham Parkway, Morris Park,
+154465,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,212,Wakefield, Williamsbridge,2005
+154466,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,301,Williamsburg, Greenpoint,2005
+154467,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,302,Brooklyn Heights, Fort Greene,2005
+154468,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,303,Bedford Stuyvesant,2005,0.9
+154469,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,304,Bushwick,2005,0.5
+154470,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,305,East New York, Starrett City,2005
+154471,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,306,Park Slope, Carroll Gardens,2005
+154472,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,307,Sunset Park, Windsor Terrace,2005
+154473,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,308,Crown Heights North,2005,1
+154474,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,309,Crown Heights South, Wingate,2005
+154475,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,310,Bay Ridge, Dyker Heights,2005
+154476,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,311,Bensonhurst, Bath Beach,2005
+154477,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,312,Borough Park, Ocean Parkway,2005
+154478,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,313,Coney Island, Brighton Beach,2005
+154479,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,314,Flatbush, Midwood,2005
+154480,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,315,Sheepshead Bay, Gerritsen Beach,2005
+154481,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,316,Brownsville, Ocean Hill,2005
+154482,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,317,East Flatbush, Rugby,
+154483,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,318,Canarsie, Flatlands,2005
+154484,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,401,Astoria, Long Island City,2005
+154485,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,402,Sunnyside, Woodside,2005
+154486,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,403,Jackson Heights, North Corona,2005
+154487,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,404,Elmhurst, South Corona,2005
+154488,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,405,Ridgewood, Glendale,
+154489,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,406,Forest Hills, Rego Park,2005
+154490,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,407,Flushing Bay Terrace,2005,1.2
+154491,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,408,Fresh Meadows, Briarwood,2005
+154492,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,409,Woodhaven, Richmond Hill,2005
+154493,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,410,Ozone Park, Howard Beach,2005
+154494,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,411,Bayside, Douglastown,
+154495,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,412,Jamaica, St. Albans,
+154496,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,413,Queens Village, Rosedale,2005
+154497,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,414,The Rockaways, Broad Channel,2005
+154498,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,501,Stapleton, Port Richmond,2005
+154499,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,502,New Springville, South Beach,2005
+154500,645,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Trucks,Per 100 km2,CD,503,Tottenville, Woodrow,
+154501,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,101,Battery Park City, Tribeca,2005
+154502,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,102,Greenwich Village, SOHO,2005
+154503,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,103,Lower East Side, Chinatown,2005
+154504,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,104,Chelsea, Clinton,2005
+154505,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,105,Midtown Business District,2005,47.3
+154506,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,106,Stuyvesant Town, Turtle Bay,2005
+154507,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,107,West Side, Upper West Side,2005
+154508,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,108,Upper East Side,2005,59.8
+154509,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,109,Manhattanville, Hamilton Heights,2005
+154510,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,110,Central Harlem,2005,30.3
+154511,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,111,East Harlem,2005,56.8
+154512,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,112,Washington Heights, Inwood,2005
+154513,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,201,Melrose, Mott Haven,
+154514,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,202,Hunts Point, Longwood,2005
+154515,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,203,Morrisania, Crotona Park East,2005
+154516,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,204,Highbridge, Concourse Village,2005
+154517,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,205,University Hts., Fordham,
+154518,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,206,East Tremont, Belmont,2005
+154519,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,207,Bedford Park, Norwood,
+154520,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,208,Riverdale, Kingsbridge,
+154521,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,209,Soundview, Parkchester,2005
+154522,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,210,Throgs Nk.,Co-op City,
+154523,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,211,Pelham Parkway, Morris Park,
+154524,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,212,Wakefield, Williamsbridge,2005
+154525,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,301,Williamsburg, Greenpoint,2005
+154526,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,302,Brooklyn Heights, Fort Greene,2005
+154527,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,303,Bedford Stuyvesant,2005,24.9
+154528,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,304,Bushwick,2005,13.4
+154529,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,305,East New York, Starrett City,2005
+154530,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,306,Park Slope, Carroll Gardens,2005
+154531,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,307,Sunset Park, Windsor Terrace,2005
+154532,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,308,Crown Heights North,2005,25.3
+154533,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,309,Crown Heights South, Wingate,2005
+154534,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,310,Bay Ridge, Dyker Heights,2005
+154535,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,311,Bensonhurst, Bath Beach,2005
+154536,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,312,Borough Park, Ocean Parkway,2005
+154537,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,313,Coney Island, Brighton Beach,2005
+154538,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,314,Flatbush, Midwood,2005
+154539,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,315,Sheepshead Bay, Gerritsen Beach,2005
+154540,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,316,Brownsville, Ocean Hill,2005
+154541,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,317,East Flatbush, Rugby,
+154542,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,318,Canarsie, Flatlands,2005
+154543,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,401,Astoria, Long Island City,2005
+154544,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,402,Sunnyside, Woodside,2005
+154545,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,403,Jackson Heights, North Corona,2005
+154546,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,404,Elmhurst, South Corona,2005
+154547,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,405,Ridgewood, Glendale,
+154548,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,406,Forest Hills, Rego Park,2005
+154549,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,407,Flushing Bay Terrace,2005,19.6
+154550,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,408,Fresh Meadows, Briarwood,2005
+154551,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,409,Woodhaven, Richmond Hill,2005
+154552,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,410,Ozone Park, Howard Beach,2005
+154553,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,411,Bayside, Douglastown,
+154554,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,412,Jamaica, St. Albans,
+154555,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,413,Queens Village, Rosedale,2005
+154556,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,414,The Rockaways, Broad Channel,2005
+154557,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,501,Stapleton, Port Richmond,2005
+154558,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,502,New Springville, South Beach,2005
+154559,644,Traffic Density- Annual Vehicle Miles Traveled (VMT) for Cars,Per 100 km2,CD,503,Tottenville, Woodrow,
+154560,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,101,Battery Park City, Tribeca,2005
+154561,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,102,Greenwich Village, SOHO,2005
+154562,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,103,Lower East Side, Chinatown,2005
+154563,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,104,Chelsea, Clinton,2005
+154564,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,105,Midtown Business District,2005,52.6
+154565,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,106,Stuyvesant Town, Turtle Bay,2005
+154566,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,107,West Side, Upper West Side,2005
+154567,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,108,Upper East Side,2005,64
+154568,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,109,Manhattanville, Hamilton Heights,2005
+154569,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,110,Central Harlem,2005,31.4
+154570,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,111,East Harlem,2005,59.3
+154571,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,112,Washington Heights, Inwood,2005
+154572,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,201,Melrose, Mott Haven,
+154573,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,202,Hunts Point, Longwood,2005
+154574,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,203,Morrisania, Crotona Park East,2005
+154575,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,204,Highbridge, Concourse Village,2005
+154576,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,205,University Hts., Fordham,
+154577,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,206,East Tremont, Belmont,2005
+154578,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,207,Bedford Park, Norwood,
+154579,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,208,Riverdale, Kingsbridge,
+154580,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,209,Soundview, Parkchester,2005
+154581,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,210,Throgs Nk.,Co-op City,
+154582,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,211,Pelham Parkway, Morris Park,
+154583,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,212,Wakefield, Williamsbridge,2005
+154584,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,301,Williamsburg, Greenpoint,2005
+154585,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,302,Brooklyn Heights, Fort Greene,2005
+154586,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,303,Bedford Stuyvesant,2005,26
+154587,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,304,Bushwick,2005,13.9
+154588,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,305,East New York, Starrett City,2005
+154589,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,306,Park Slope, Carroll Gardens,2005
+154590,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,307,Sunset Park, Windsor Terrace,2005
+154591,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,308,Crown Heights North,2005,26.4
+154592,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,309,Crown Heights South, Wingate,2005
+154593,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,310,Bay Ridge, Dyker Heights,2005
+154594,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,311,Bensonhurst, Bath Beach,2005
+154595,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,312,Borough Park, Ocean Parkway,2005
+154596,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,313,Coney Island, Brighton Beach,2005
+154597,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,314,Flatbush, Midwood,2005
+154598,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,315,Sheepshead Bay, Gerritsen Beach,2005
+154599,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,316,Brownsville, Ocean Hill,2005
+154600,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,317,East Flatbush, Rugby,
+154601,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,318,Canarsie, Flatlands,2005
+154602,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,401,Astoria, Long Island City,2005
+154603,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,402,Sunnyside, Woodside,2005
+154604,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,403,Jackson Heights, North Corona,2005
+154605,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,404,Elmhurst, South Corona,2005
+154606,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,405,Ridgewood, Glendale,
+154607,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,406,Forest Hills, Rego Park,2005
+154608,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,407,Flushing Bay Terrace,2005,20.9
+154609,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,408,Fresh Meadows, Briarwood,2005
+154610,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,409,Woodhaven, Richmond Hill,2005
+154611,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,410,Ozone Park, Howard Beach,2005
+154612,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,411,Bayside, Douglastown,
+154613,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,412,Jamaica, St. Albans,
+154614,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,413,Queens Village, Rosedale,2005
+154615,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,414,The Rockaways, Broad Channel,2005
+154616,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,501,Stapleton, Port Richmond,2005
+154617,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,502,New Springville, South Beach,2005
+154618,643,Traffic Density- Annual Vehicle Miles Traveled (VMT),Per 100 km2,CD,503,Tottenville, Woodrow,
