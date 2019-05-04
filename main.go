@@ -5,13 +5,13 @@ import (
 	"context"
 	"encoding/csv"
 	"encoding/json"
+	"flag"
 	"fmt"
 	"io"
 	"log"
 	"net"
 	"net/http"
 	"os"
-	"strconv"
 	"strings"
 	"sync"
 	"time"
@@ -50,13 +50,13 @@ func bulkIndexIt(elastic *elasticsearch.Client, record []string) {
 
 	index := "nyc-air-quality"
 
-	i, _ := strconv.ParseInt(record[0], 10, 32)
+	// i, _ := strconv.ParseInt(record[0], 10, 32)
 
-	doc.IndicatorDataID = int32(i)
+	doc.IndicatorDataID = record[0]
 
-	i, _ = strconv.ParseInt(record[1], 10, 32)
+	// i, _ = strconv.ParseInt(record[1], 10, 32)
 
-	doc.IndicatorID = int32(i)
+	doc.IndicatorID = record[1]
 
 	doc.Name = record[2]
 	doc.Measure = record[3]
@@ -102,46 +102,61 @@ func bulkIndexIt(elastic *elasticsearch.Client, record []string) {
 	//var bulk esapi.Bulk()
 
 	counter++
-	if counter%50 == 0 {
+	if counter%150 == 0 {
 
-		res, err = elastic.Bulk(bytes.NewReader(buf.Bytes()), elastic.Bulk.WithIndex(index), elastic.Bulk.WithDocumentType("mydoc"))
+		res, err = elastic.Bulk(bytes.NewReader(buf.Bytes()), elastic.Bulk.WithIndex(index), elastic.Bulk.WithDocumentType("mydoc"), elastic.Bulk.WithRefresh("wait_for"))
 
 		if err != nil {
 			log.Fatalf("Failure indexing batch: %s", err)
-		}
+		} else {
 
-		// If the whole request failed, print error and mark all documents as failed
-		//
-		if res.IsError() {
-
-			// numErrors += numItems
-
-			if err := json.NewDecoder(res.Body).Decode(&raw); err != nil {
-				log.Fatalf("Failure to to parse response body: %s", err)
-			} else {
-				log.Printf("  Error: [%d] %s: %s",
-					res.StatusCode,
-					raw["error"].(map[string]interface{})["type"],
-					raw["error"].(map[string]interface{})["reason"],
-				)
-			}
-			// A successful response might still contain errors for particular documents...
+			// If the whole request failed, print error and mark all documents as failed
 			//
+			if res.IsError() {
+
+				// numErrors += numItems
+
+				if err := json.NewDecoder(res.Body).Decode(&raw); err != nil {
+					log.Fatalf("Failure to to parse response body: %s", err)
+				} else {
+					log.Printf("  Error: [%d] %s: %s",
+						res.StatusCode,
+						raw["error"].(map[string]interface{})["type"],
+						raw["error"].(map[string]interface{})["reason"],
+					)
+				}
+				// A successful response might still contain errors for particular documents...
+				//
+			}
+
+			time.Sleep(1 * time.Second)
 		}
 
-		time.Sleep(1 * time.Second)
+		buf.Reset()
+
 		// else {
 		// 	fmt.Printf("It should have bulked indexed. Not checking individual bulk errors")
 		// }
 	} // if counter%100 == 0 {
 
-	res, err = elastic.Bulk(bytes.NewReader(buf.Bytes()), elastic.Bulk.WithIndex(index), elastic.Bulk.WithDocumentType("mydoc"))
+	// res, err = elastic.Bulk(bytes.NewReader(buf.Bytes()), elastic.Bulk.WithIndex(index), elastic.Bulk.WithDocumentType("mydoc"), elastic.Bulk.WithRefresh("wait_for"))
 
-	if err != nil {
-		log.Fatalf("Failure indexing batch: %s", err)
-	}
+	// if err != nil {
+	// 	log.Fatalf("Last failure indexing batch: %s", err)
+	// }
 
 	// fmt.Printf("Last one. %+v\n", res)
+
+}
+
+func finishBulk(elastic *elasticsearch.Client) {
+	index := "nyc-air-quality"
+
+	_, err := elastic.Bulk(bytes.NewReader(buf.Bytes()), elastic.Bulk.WithIndex(index), elastic.Bulk.WithDocumentType("mydoc"), elastic.Bulk.WithRefresh("wait_for"))
+
+	if err != nil {
+		log.Fatalf("Last failure indexing batch: %s", err)
+	}
 
 }
 
@@ -196,8 +211,9 @@ func indexIt(elastic *elasticsearch.Client, record []string) {
 
 func readCsv(elastic *elasticsearch.Client) {
 
-	// fileName := "/home/edbrown/go/src/github.com/EdSwArchitect/go-nyc-airquality/resources/Air_Quality.csv"
-	fileName := "/home/edbrown/go/src/github.com/EdSwArchitect/go-nyc-airquality/resources/Air_Quality_Last.csv"
+	fileName := "/home/edbrown/go/src/github.com/EdSwArchitect/go-nyc-airquality/resources/Air_Quality.csv"
+	// fileName := "/home/edbrown/go/src/github.com/EdSwArchitect/go-nyc-airquality/resources/Air_Quality_First.csv"
+	// fileName := "/home/edbrown/go/src/github.com/EdSwArchitect/go-nyc-airquality/resources/Air_Quality_Last.csv"
 
 	file, err := os.Open(fileName)
 
@@ -238,11 +254,50 @@ func readCsv(elastic *elasticsearch.Client) {
 
 	} // for {
 
+	finishBulk(elastic)
+
 }
 
-func search(es *elasticsearch.Client, name *string) {
+func search(es *elasticsearch.Client, value *string, field airquality.SearchField) {
 
-	query := `{"query" : { "match" : { "geo_type_name" : "` + *name + `" } }}`
+	// Name SearchField = iota + 1
+	// Measure
+	// GeoTypeName
+	// GeoEntityID
+	// GeoEntityName
+	// YearDescription
+	// DataValueMessage
+
+	// Name             string `json:"name"`
+	// Measure          string `json:"measure"`
+	// GeoTypeName      string `json:"geo_type_name"`
+	// GeoEntityID      string `json:"geo_entity_id"`
+	// GeoEntityName    string `json:"geo_entity_name"`
+	// YearDescription  string `json:"year_description"`
+	// DataValueMessage string `json:"data_value_message"`
+
+	var query string
+
+	switch field {
+	case airquality.Undef:
+		query = `{"query" : { "match_all" : {} }}`
+	case airquality.Name:
+		query = `{"query" : { "match" : { "name" : "` + *value + `" } }}`
+	case airquality.Measure:
+		query = `{"query" : { "match" : { "measure" : "` + *value + `" } }}`
+	case airquality.GeoTypeName:
+		query = `{"query" : { "match" : { "geo_type_name" : "` + *value + `" } }}`
+	case airquality.GeoEntityID:
+		query = `{"query" : { "match" : { "geo_entity_id" : "` + *value + `" } }}`
+	case airquality.GeoEntityName:
+		query = `{"query" : { "match" : { "geo_entity_name" : "` + *value + `" } }}`
+	case airquality.YearDescription:
+		query = `{"query" : { "match" : { "year_description" : "` + *value + `" } }}`
+	case airquality.DataValueMessage:
+		query = `{"query" : { "match" : { "data_value_message" : "` + *value + `" } }}`
+	default:
+		query = `{"query" : { "match_all" : {} }}`
+	}
 
 	// 3. Search for the indexed documents
 	//
@@ -252,9 +307,10 @@ func search(es *elasticsearch.Client, name *string) {
 		es.Search.WithIndex("nyc-air-quality"),
 		es.Search.WithBody(strings.NewReader(query)),
 		es.Search.WithTrackTotalHits(true),
+		es.Search.WithPretty(),
+		es.Search.WithHuman(),
 		es.Search.WithSize(500),
 		es.Search.WithFrom(0),
-		es.Search.WithPretty(),
 	)
 	if err != nil {
 		log.Fatalf("ERROR: %s", err)
@@ -297,7 +353,16 @@ func search(es *elasticsearch.Client, name *string) {
 }
 
 func main() {
-	fmt.Println("Hi, Ed")
+
+	cmd := flag.String("command", "---", "Command. Either 'query' or 'load'")
+
+	field := flag.String("field", "---", "Query field")
+
+	queryValue := flag.String("value", "---", "Query field value")
+
+	flag.Parse()
+
+	fmt.Printf("Command '%s'\nField '%s'\nQuery value '%s'\n", *cmd, *field, *queryValue)
 
 	// var wg sync.WaitGroup
 
@@ -306,9 +371,8 @@ func main() {
 	cfg := elasticsearch.Config{
 		Addresses: []string{"http://localhost:9200"},
 		Transport: &http.Transport{
-			MaxIdleConnsPerHost:   10,
-			ResponseHeaderTimeout: 10 * time.Second,
-			DialContext:           (&net.Dialer{Timeout: 10 * time.Second}).DialContext,
+			MaxIdleConnsPerHost: 10,
+			DialContext:         (&net.Dialer{Timeout: 60 * time.Second}).DialContext,
 		},
 	}
 
@@ -337,17 +401,17 @@ func main() {
 
 	log.Printf("Results: %s", r)
 
-	var fieldValue string
+	if *cmd == "query" {
 
-	fieldValue = "Citywide"
+		fieldName := airquality.GetField(*field)
 
-	if true {
-		search(elastic, &fieldValue)
-
-	} else {
+		search(elastic, queryValue, fieldName)
+	} else if *cmd == "load" {
 
 		readCsv(elastic)
 
+	} else {
+		log.Printf("bad command: '%s'", *cmd)
 	}
 
 	log.Println("End of test")

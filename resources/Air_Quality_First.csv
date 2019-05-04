@@ -1,0 +1,1001 @@
+indicator_data_id,indicator_id,name,Measure,geo_type_name,geo_entity_id,geo_entity_name,year_description,data_valuemessage
+130728,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,Borough,1,Bronx,2005,2.8
+130729,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,Borough,2,Brooklyn,2005,2.8
+130730,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,Borough,3,Manhattan,2005,4.7
+130731,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,Borough,4,Queens,2005,1.9
+130732,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,Borough,5,Staten Island,2005,1.6
+130727,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,Citywide,1,New York City,2005,2.9
+130685,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,101,Kingsbridge - Riverdale,2005,2.9
+130686,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,102,Northeast Bronx,2005,2.8
+130687,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,103,Fordham - Bronx Pk,2005,2.7
+130688,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,104,Pelham - Throgs Neck,2005,2.7
+130689,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,105,Crotona -Tremont,2005,3
+130690,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,106,High Bridge - Morrisania,2005,3
+130691,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,107,Hunts Point - Mott Haven,2005,2.8
+130692,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,201,Greenpoint,2005,3.7
+130693,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,202,Downtown - Heights - Slope,2005,3.7
+130694,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,203,Bedford Stuyvesant - Crown Heights,2005,2.5
+130695,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,204,East New York,2005,2.3
+130696,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,205,Sunset Park,2005,3.2
+130697,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,206,Borough Park,2005,2.5
+130698,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,207,East Flatbush - Flatbush,2005,2.3
+130699,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,208,Canarsie - Flatlands,2005,2.4
+130700,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,209,Bensonhurst - Bay Ridge,2005,2.8
+130701,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,210,Coney Island - Sheepshead Bay,2005,2.4
+130702,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,211,Williamsburg - Bushwick,2005,2.8
+130703,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,301,Washington Heights,2005,4.1
+130704,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,302,Central Harlem - Morningside Heights,2005,3.9
+130705,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,303,East Harlem,2005,4.2
+130706,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,304,Upper West Side,2005,3.9
+130707,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,305,Upper East Side,2005,4.5
+130708,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,306,Chelsea - Clinton,2005,4.9
+130709,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,307,Gramercy Park - Murray Hill,2005,5.3
+130710,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,308,Greenwich Village - SoHo,2005,4.7
+130711,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,309,Union Square - Lower East Side,2005,5
+130712,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,310,Lower Manhattan,2005,6.3
+130713,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,401,Long Island City - Astoria,2005,2.7
+130714,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,402,West Queens,2005,2.2
+130715,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,403,Flushing - Clearview,2005,1.9
+130716,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,404,Bayside - Little Neck,2005,1.9
+130717,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,405,Ridgewood - Forest Hills,2005,2
+130718,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,406,Fresh Meadows,2005,1.7
+130719,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,407,Southwest Queens,2005,1.8
+130720,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,408,Jamaica,2005,1.8
+130721,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,409,Southeast Queens,2005,1.8
+130722,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,410,Rockaways,2005,1.4
+130723,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,501,Port Richmond,2005,2.5
+130724,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,502,Stapleton - St. George,2005,1.3
+130725,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,503,Willowbrook,2005,1.6
+130726,646,Air Toxics Concentrations- Average Benzene Concentrations,Average Concentration,UHF42,504,South Beach - Tottenville,2005,1.1
+130776,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,Borough,1,Bronx,2005,3.3
+130777,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,Borough,2,Brooklyn,2005,3
+130778,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,Borough,3,Manhattan,2005,4.3
+130779,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,Borough,4,Queens,2005,2.7
+130780,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,Borough,5,Staten Island,2005,2.3
+130775,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,Citywide,1,New York City,2005,3.2
+130733,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,101,Kingsbridge - Riverdale,2005,3.2
+130734,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,102,Northeast Bronx,2005,3.2
+130735,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,103,Fordham - Bronx Pk,2005,3.2
+130736,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,104,Pelham - Throgs Neck,2005,3.2
+130737,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,105,Crotona -Tremont,2005,3.4
+130738,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,106,High Bridge - Morrisania,2005,3.6
+130739,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,107,Hunts Point - Mott Haven,2005,3.5
+130740,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,201,Greenpoint,2005,3.5
+130741,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,202,Downtown - Heights - Slope,2005,3.2
+130742,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,203,Bedford Stuyvesant - Crown Heights,2005,3
+130743,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,204,East New York,2005,2.8
+130744,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,205,Sunset Park,2005,3.2
+130745,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,206,Borough Park,2005,2.9
+130746,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,207,East Flatbush - Flatbush,2005,2.8
+130747,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,208,Canarsie - Flatlands,2005,2.8
+130748,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,209,Bensonhurst - Bay Ridge,2005,2.7
+130749,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,210,Coney Island - Sheepshead Bay,2005,2.5
+130750,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,211,Williamsburg - Bushwick,2005,3.1
+130751,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,301,Washington Heights,2005,3.9
+130752,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,302,Central Harlem - Morningside Heights,2005,4.2
+130753,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,303,East Harlem,2005,4.2
+130754,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,304,Upper West Side,2005,4
+130755,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,305,Upper East Side,2005,4.5
+130756,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,306,Chelsea - Clinton,2005,4.6
+130757,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,307,Gramercy Park - Murray Hill,2005,5.3
+130758,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,308,Greenwich Village - SoHo,2005,4
+130759,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,309,Union Square - Lower East Side,2005,4
+130760,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,310,Lower Manhattan,2005,4.2
+130761,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,401,Long Island City - Astoria,2005,3.6
+130762,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,402,West Queens,2005,3.4
+130763,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,403,Flushing - Clearview,2005,2.7
+130764,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,404,Bayside - Little Neck,2005,2.5
+130765,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,405,Ridgewood - Forest Hills,2005,3
+130766,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,406,Fresh Meadows,2005,2.3
+130767,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,407,Southwest Queens,2005,2.4
+130768,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,408,Jamaica,2005,2.4
+130769,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,409,Southeast Queens,2005,2.4
+130770,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,410,Rockaways,2005,2
+130771,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,501,Port Richmond,2005,2.4
+130772,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,502,Stapleton - St. George,2005,2.3
+130773,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,503,Willowbrook,2005,2.3
+130774,647,Air Toxics Concentrations- Average Formaldehyde Concentrations,Average Concentration,UHF42,504,South Beach - Tottenville,2005,2.2
+130536,642,Boiler Emissions- Total NOx Emissions,Per km2,Borough,1,Bronx,2013,42.7
+130537,642,Boiler Emissions- Total NOx Emissions,Per km2,Borough,2,Brooklyn,2013,22.8
+130538,642,Boiler Emissions- Total NOx Emissions,Per km2,Borough,3,Manhattan,2013,161.1
+130539,642,Boiler Emissions- Total NOx Emissions,Per km2,Borough,4,Queens,2013,16.1
+130540,642,Boiler Emissions- Total NOx Emissions,Per km2,Borough,5,Staten Island,2013,2.7
+130535,642,Boiler Emissions- Total NOx Emissions,Per km2,Citywide,1,New York City,2013,29.4
+130493,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,101,Kingsbridge - Riverdale,2013,42.5
+130494,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,102,Northeast Bronx,2013,33.8
+130495,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,103,Fordham - Bronx Pk,2013,71
+130496,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,104,Pelham - Throgs Neck,2013,24.9
+130497,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,105,Crotona -Tremont,2013,62.5
+130498,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,106,High Bridge - Morrisania,2013,78
+130499,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,107,Hunts Point - Mott Haven,2013,36.8
+130500,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,201,Greenpoint,2013,18.9
+130501,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,202,Downtown - Heights - Slope,2013,32
+130502,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,203,Bedford Stuyvesant - Crown Heights,2013,31.7
+130503,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,204,East New York,2013,14.7
+130504,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,205,Sunset Park,2013,13.4
+130505,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,206,Borough Park,2013,34.8
+130506,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,207,East Flatbush - Flatbush,2013,33.5
+130507,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,208,Canarsie - Flatlands,2013,6.7
+130508,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,209,Bensonhurst - Bay Ridge,2013,26.5
+130509,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,210,Coney Island - Sheepshead Bay,2013,23.7
+130510,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,211,Williamsburg - Bushwick,2013,27.8
+130511,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,301,Washington Heights,2013,115.3
+130512,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,302,Central Harlem - Morningside Heights,2013,82.1
+130513,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,303,East Harlem,2013,55.8
+130514,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,304,Upper West Side,2013,247.9
+130515,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,305,Upper East Side,2013,269.8
+130516,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,306,Chelsea - Clinton,2013,204.8
+130517,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,307,Gramercy Park - Murray Hill,2013,284.7
+130518,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,308,Greenwich Village - SoHo,2013,132.5
+130519,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,309,Union Square - Lower East Side,2013,126.1
+130520,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,310,Lower Manhattan,2013,118.7
+130521,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,401,Long Island City - Astoria,2013,30.6
+130522,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,402,West Queens,2013,24.6
+130523,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,403,Flushing - Clearview,2013,18.7
+130524,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,404,Bayside - Little Neck,2013,10.4
+130525,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,405,Ridgewood - Forest Hills,2013,23.6
+130526,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,406,Fresh Meadows,2013,15.3
+130527,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,407,Southwest Queens,2013,14.5
+130528,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,408,Jamaica,2013,13.2
+130529,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,409,Southeast Queens,2013,8.1
+130530,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,410,Rockaways,2013,6.1
+130531,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,501,Port Richmond,2013,2.8
+130532,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,502,Stapleton - St. George,2013,4.7
+130533,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,503,Willowbrook,2013,2.1
+130534,642,Boiler Emissions- Total NOx Emissions,Per km2,UHF42,504,South Beach - Tottenville,2013,2
+130488,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,Borough,1,Bronx,2013,1.2
+130489,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,Borough,2,Brooklyn,2013,0.1
+130490,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,Borough,3,Manhattan,2013,5.9
+130491,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,Borough,4,Queens,2013,0.3
+130492,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,Borough,5,Staten Island,2013,0
+130487,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,Citywide,1,New York City,2013,0.7
+130445,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,101,Kingsbridge - Riverdale,2013,2
+130446,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,102,Northeast Bronx,2013,0.3
+130447,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,103,Fordham - Bronx Pk,2013,3
+130448,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,104,Pelham - Throgs Neck,2013,0.5
+130449,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,105,Crotona -Tremont,2013,2
+130450,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,106,High Bridge - Morrisania,2013,2.4
+130451,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,107,Hunts Point - Mott Haven,2013,0.4
+130452,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,201,Greenpoint,2013,0.1
+130453,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,202,Downtown - Heights - Slope,2013,0.1
+130454,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,203,Bedford Stuyvesant - Crown Heights,2013,0.1
+130455,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,204,East New York,2013,0
+130456,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,205,Sunset Park,2013,0
+130457,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,206,Borough Park,2013,0.2
+130458,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,207,East Flatbush - Flatbush,2013,0.3
+130459,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,208,Canarsie - Flatlands,2013,0
+130460,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,209,Bensonhurst - Bay Ridge,2013,0.2
+130461,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,210,Coney Island - Sheepshead Bay,2013,0.1
+130462,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,211,Williamsburg - Bushwick,2013,0.1
+130463,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,301,Washington Heights,2013,5.8
+130464,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,302,Central Harlem - Morningside Heights,2013,2
+130465,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,303,East Harlem,2013,1.3
+130466,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,304,Upper West Side,2013,11.4
+130467,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,305,Upper East Side,2013,10.8
+130468,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,306,Chelsea - Clinton,2013,7.7
+130469,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,307,Gramercy Park - Murray Hill,2013,9
+130470,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,308,Greenwich Village - SoHo,2013,4.1
+130471,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,309,Union Square - Lower East Side,2013,3
+130472,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,310,Lower Manhattan,2013,1.7
+130473,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,401,Long Island City - Astoria,2013,0.8
+130474,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,402,West Queens,2013,0.3
+130475,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,403,Flushing - Clearview,2013,0.6
+130476,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,404,Bayside - Little Neck,2013,0.2
+130477,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,405,Ridgewood - Forest Hills,2013,0.3
+130478,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,406,Fresh Meadows,2013,0.5
+130479,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,407,Southwest Queens,2013,0.1
+130480,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,408,Jamaica,2013,0.1
+130481,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,409,Southeast Queens,2013,0
+130482,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,410,Rockaways,2013,0
+130483,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,501,Port Richmond,2013,0
+130484,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,502,Stapleton - St. George,2013,0
+130485,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,503,Willowbrook,2013,0
+130486,641,Boiler Emissions- Total PM2.5 Emissions,Per km2,UHF42,504,South Beach - Tottenville,2013,0
+130440,640,Boiler Emissions- Total SO2 Emissions,Per km2,Borough,1,Bronx,2013,10.3
+130441,640,Boiler Emissions- Total SO2 Emissions,Per km2,Borough,2,Brooklyn,2013,0.8
+130442,640,Boiler Emissions- Total SO2 Emissions,Per km2,Borough,3,Manhattan,2013,50.6
+130443,640,Boiler Emissions- Total SO2 Emissions,Per km2,Borough,4,Queens,2013,2.2
+130444,640,Boiler Emissions- Total SO2 Emissions,Per km2,Borough,5,Staten Island,2013,0.1
+130439,640,Boiler Emissions- Total SO2 Emissions,Per km2,Citywide,1,New York City,2013,6.1
+130397,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,101,Kingsbridge - Riverdale,2013,17.6
+130398,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,102,Northeast Bronx,2013,2.2
+130399,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,103,Fordham - Bronx Pk,2013,24.5
+130400,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,104,Pelham - Throgs Neck,2013,4.4
+130401,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,105,Crotona -Tremont,2013,16.9
+130402,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,106,High Bridge - Morrisania,2013,19.7
+130403,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,107,Hunts Point - Mott Haven,2013,3.3
+130404,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,201,Greenpoint,2013,0.4
+130405,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,202,Downtown - Heights - Slope,2013,0.8
+130406,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,203,Bedford Stuyvesant - Crown Heights,2013,0.9
+130407,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,204,East New York,2013,0.1
+130408,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,205,Sunset Park,2013,0.1
+130409,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,206,Borough Park,2013,1.5
+130410,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,207,East Flatbush - Flatbush,2013,2.3
+130411,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,208,Canarsie - Flatlands,2013,0
+130412,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,209,Bensonhurst - Bay Ridge,2013,1.7
+130413,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,210,Coney Island - Sheepshead Bay,2013,0.9
+130414,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,211,Williamsburg - Bushwick,2013,0.3
+130415,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,301,Washington Heights,2013,51
+130416,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,302,Central Harlem - Morningside Heights,2013,15.7
+130417,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,303,East Harlem,2013,11.6
+130418,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,304,Upper West Side,2013,99.7
+130419,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,305,Upper East Side,2013,95
+130420,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,306,Chelsea - Clinton,2013,67.4
+130421,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,307,Gramercy Park - Murray Hill,2013,78.8
+130422,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,308,Greenwich Village - SoHo,2013,32.9
+130423,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,309,Union Square - Lower East Side,2013,24.9
+130424,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,310,Lower Manhattan,2013,13.7
+130425,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,401,Long Island City - Astoria,2013,6.7
+130426,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,402,West Queens,2013,2.3
+130427,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,403,Flushing - Clearview,2013,5.1
+130428,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,404,Bayside - Little Neck,2013,1.6
+130429,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,405,Ridgewood - Forest Hills,2013,2.7
+130430,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,406,Fresh Meadows,2013,4.3
+130431,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,407,Southwest Queens,2013,0.8
+130432,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,408,Jamaica,2013,0.5
+130433,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,409,Southeast Queens,2013,0.3
+130434,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,410,Rockaways,2013,0
+130435,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,501,Port Richmond,2013,0
+130436,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,502,Stapleton - St. George,2013,0.4
+130437,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,503,Willowbrook,2013,0
+130438,640,Boiler Emissions- Total SO2 Emissions,Per km2,UHF42,504,South Beach - Tottenville,2013,0
+131694,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,Borough,1,Bronx,Annual Average 2009-2010,1.3
+131695,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,Borough,2,Brooklyn,Annual Average 2009-2010,1.1
+131696,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,Borough,3,Manhattan,Annual Average 2009-2010,1.5
+131697,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,Borough,4,Queens,Annual Average 2009-2010,1
+131698,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,Borough,5,Staten Island,Annual Average 2009-2010,0.9
+131693,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,Citywide,1,New York City,Annual Average 2009-2010,1.2
+131651,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,101,Kingsbridge - Riverdale,Annual Average 2009-2010,1.1
+131652,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,102,Northeast Bronx,Annual Average 2009-2010,1.1
+131653,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,103,Fordham - Bronx Pk,Annual Average 2009-2010,1.3
+131654,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,104,Pelham - Throgs Neck,Annual Average 2009-2010,1.2
+131655,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,105,Crotona -Tremont,Annual Average 2009-2010,1.5
+131656,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,106,High Bridge - Morrisania,Annual Average 2009-2010,1.5
+131657,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,107,Hunts Point - Mott Haven,Annual Average 2009-2010,1.4
+131658,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,201,Greenpoint,Annual Average 2009-2010,1.4
+131659,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,202,Downtown - Heights - Slope,Annual Average 2009-2010,1.3
+131660,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,203,Bedford Stuyvesant - Crown Heights,Annual Average 2009-2010,1.1
+131661,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,204,East New York,Annual Average 2009-2010,1.1
+131662,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,205,Sunset Park,Annual Average 2009-2010,1.2
+131663,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,206,Borough Park,Annual Average 2009-2010,1
+131664,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,207,East Flatbush - Flatbush,Annual Average 2009-2010,1
+131665,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,208,Canarsie - Flatlands,Annual Average 2009-2010,0.9
+131666,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,209,Bensonhurst - Bay Ridge,Annual Average 2009-2010,1
+131667,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,210,Coney Island - Sheepshead Bay,Annual Average 2009-2010,0.9
+131668,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,211,Williamsburg - Bushwick,Annual Average 2009-2010,1.2
+131669,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,301,Washington Heights,Annual Average 2009-2010,1.4
+131610,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,201,Greenpoint,Annual Average 2009-2010,11.4
+131670,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,302,Central Harlem - Morningside Heights,Annual Average 2009-2010,1.3
+131671,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,303,East Harlem,Annual Average 2009-2010,1.4
+131672,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,304,Upper West Side,Annual Average 2009-2010,1.3
+131673,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,305,Upper East Side,Annual Average 2009-2010,1.5
+131674,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,306,Chelsea - Clinton,Annual Average 2009-2010,1.8
+131675,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,307,Gramercy Park - Murray Hill,Annual Average 2009-2010,1.8
+131676,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,308,Greenwich Village - SoHo,Annual Average 2009-2010,1.8
+131677,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,309,Union Square - Lower East Side,Annual Average 2009-2010,1.6
+131678,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,310,Lower Manhattan,Annual Average 2009-2010,1.5
+131679,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,401,Long Island City - Astoria,Annual Average 2009-2010,1.3
+131680,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,402,West Queens,Annual Average 2009-2010,1.3
+131681,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,403,Flushing - Clearview,Annual Average 2009-2010,1
+131682,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,404,Bayside - Little Neck,Annual Average 2009-2010,1
+131683,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,405,Ridgewood - Forest Hills,Annual Average 2009-2010,1
+131684,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,406,Fresh Meadows,Annual Average 2009-2010,1
+131685,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,407,Southwest Queens,Annual Average 2009-2010,1
+131686,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,408,Jamaica,Annual Average 2009-2010,1
+131687,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,409,Southeast Queens,Annual Average 2009-2010,0.9
+131688,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,410,Rockaways,Annual Average 2009-2010,0.7
+131689,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,501,Port Richmond,Annual Average 2009-2010,0.9
+131690,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,502,Stapleton - St. George,Annual Average 2009-2010,0.9
+131691,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,503,Willowbrook,Annual Average 2009-2010,0.9
+131692,663,Neighborhood Air Quality Concentrations- Elemental Carbon (EC),Average Concentration,UHF42,504,South Beach - Tottenville,Annual Average 2009-2010,0.8
+131646,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,Borough,1,Bronx,Annual Average 2009-2010,10.8
+131647,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,Borough,2,Brooklyn,Annual Average 2009-2010,10.3
+131648,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,Borough,3,Manhattan,Annual Average 2009-2010,12.4
+131649,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,Borough,4,Queens,Annual Average 2009-2010,9.7
+131650,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,Borough,5,Staten Island,Annual Average 2009-2010,9.2
+131645,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,Citywide,1,New York City,Annual Average 2009-2010,10.6
+131603,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,101,Kingsbridge - Riverdale,Annual Average 2009-2010,10.1
+131604,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,102,Northeast Bronx,Annual Average 2009-2010,9.7
+131605,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,103,Fordham - Bronx Pk,Annual Average 2009-2010,11
+131606,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,104,Pelham - Throgs Neck,Annual Average 2009-2010,10.2
+131607,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,105,Crotona -Tremont,Annual Average 2009-2010,12.1
+131608,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,106,High Bridge - Morrisania,Annual Average 2009-2010,11.7
+131609,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,107,Hunts Point - Mott Haven,Annual Average 2009-2010,10.9
+131611,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,202,Downtown - Heights - Slope,Annual Average 2009-2010,10.8
+131612,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,203,Bedford Stuyvesant - Crown Heights,Annual Average 2009-2010,10.7
+131613,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,204,East New York,Annual Average 2009-2010,10.1
+131614,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,205,Sunset Park,Annual Average 2009-2010,10.5
+131615,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,206,Borough Park,Annual Average 2009-2010,10.2
+131616,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,207,East Flatbush - Flatbush,Annual Average 2009-2010,10.4
+131617,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,208,Canarsie - Flatlands,Annual Average 2009-2010,9.4
+131618,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,209,Bensonhurst - Bay Ridge,Annual Average 2009-2010,9.7
+131619,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,210,Coney Island - Sheepshead Bay,Annual Average 2009-2010,9.5
+131620,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,211,Williamsburg - Bushwick,Annual Average 2009-2010,11.1
+131621,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,301,Washington Heights,Annual Average 2009-2010,11.7
+131622,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,302,Central Harlem - Morningside Heights,Annual Average 2009-2010,10.8
+131623,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,303,East Harlem,Annual Average 2009-2010,10.6
+131624,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,304,Upper West Side,Annual Average 2009-2010,11.8
+131625,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,305,Upper East Side,Annual Average 2009-2010,12.7
+131626,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,306,Chelsea - Clinton,Annual Average 2009-2010,14
+131627,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,307,Gramercy Park - Murray Hill,Annual Average 2009-2010,14.9
+131628,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,308,Greenwich Village - SoHo,Annual Average 2009-2010,12.6
+131629,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,309,Union Square - Lower East Side,Annual Average 2009-2010,12.4
+131630,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,310,Lower Manhattan,Annual Average 2009-2010,12.3
+131631,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,401,Long Island City - Astoria,Annual Average 2009-2010,10.9
+131632,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,402,West Queens,Annual Average 2009-2010,10.6
+131633,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,403,Flushing - Clearview,Annual Average 2009-2010,9.6
+131634,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,404,Bayside - Little Neck,Annual Average 2009-2010,9.3
+131635,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,405,Ridgewood - Forest Hills,Annual Average 2009-2010,9.9
+131636,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,406,Fresh Meadows,Annual Average 2009-2010,9.5
+131637,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,407,Southwest Queens,Annual Average 2009-2010,9.5
+131638,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,408,Jamaica,Annual Average 2009-2010,9.7
+131639,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,409,Southeast Queens,Annual Average 2009-2010,9.2
+131640,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,410,Rockaways,Annual Average 2009-2010,8.9
+131641,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,501,Port Richmond,Annual Average 2009-2010,9.3
+131642,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,502,Stapleton - St. George,Annual Average 2009-2010,9.2
+131643,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,503,Willowbrook,Annual Average 2009-2010,9.1
+131644,662,Neighborhood Air Quality Concentrations- Fine Particulate Matter (PM2.5),Average Concentration,UHF42,504,South Beach - Tottenville,Annual Average 2009-2010,9
+131742,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,Borough,1,Bronx,Annual Average 2009-2010,24.3
+131743,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,Borough,2,Brooklyn,Annual Average 2009-2010,24.7
+131744,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,Borough,3,Manhattan,Annual Average 2009-2010,40.3
+131745,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,Borough,4,Queens,Annual Average 2009-2010,23.2
+131746,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,Borough,5,Staten Island,Annual Average 2009-2010,15.2
+131741,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,Citywide,1,New York City,Annual Average 2009-2010,27.1
+131699,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,101,Kingsbridge - Riverdale,Annual Average 2009-2010,18.5
+131700,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,102,Northeast Bronx,Annual Average 2009-2010,19.1
+131701,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,103,Fordham - Bronx Pk,Annual Average 2009-2010,24.1
+131702,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,104,Pelham - Throgs Neck,Annual Average 2009-2010,23
+131703,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,105,Crotona -Tremont,Annual Average 2009-2010,29.8
+131704,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,106,High Bridge - Morrisania,Annual Average 2009-2010,28.7
+131705,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,107,Hunts Point - Mott Haven,Annual Average 2009-2010,26.7
+131706,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,201,Greenpoint,Annual Average 2009-2010,29.6
+131707,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,202,Downtown - Heights - Slope,Annual Average 2009-2010,28.1
+131708,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,203,Bedford Stuyvesant - Crown Heights,Annual Average 2009-2010,29.8
+131709,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,204,East New York,Annual Average 2009-2010,24.5
+131710,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,205,Sunset Park,Annual Average 2009-2010,24.2
+131711,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,206,Borough Park,Annual Average 2009-2010,23.7
+131712,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,207,East Flatbush - Flatbush,Annual Average 2009-2010,26.5
+131713,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,208,Canarsie - Flatlands,Annual Average 2009-2010,18.4
+131714,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,209,Bensonhurst - Bay Ridge,Annual Average 2009-2010,20.6
+131715,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,210,Coney Island - Sheepshead Bay,Annual Average 2009-2010,18.1
+131716,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,211,Williamsburg - Bushwick,Annual Average 2009-2010,28.3
+131717,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,301,Washington Heights,Annual Average 2009-2010,36.4
+131718,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,302,Central Harlem - Morningside Heights,Annual Average 2009-2010,27.2
+131719,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,303,East Harlem,Annual Average 2009-2010,27.1
+131720,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,304,Upper West Side,Annual Average 2009-2010,37.8
+131721,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,305,Upper East Side,Annual Average 2009-2010,44.6
+131722,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,306,Chelsea - Clinton,Annual Average 2009-2010,53.6
+131723,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,307,Gramercy Park - Murray Hill,Annual Average 2009-2010,52.4
+131724,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,308,Greenwich Village - SoHo,Annual Average 2009-2010,49.6
+131725,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,309,Union Square - Lower East Side,Annual Average 2009-2010,39.7
+131726,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,310,Lower Manhattan,Annual Average 2009-2010,34.6
+131727,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,401,Long Island City - Astoria,Annual Average 2009-2010,30.5
+131728,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,402,West Queens,Annual Average 2009-2010,28.8
+131729,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,403,Flushing - Clearview,Annual Average 2009-2010,21.2
+131730,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,404,Bayside - Little Neck,Annual Average 2009-2010,19.1
+131731,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,405,Ridgewood - Forest Hills,Annual Average 2009-2010,25.6
+131732,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,406,Fresh Meadows,Annual Average 2009-2010,23.3
+131733,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,407,Southwest Queens,Annual Average 2009-2010,21.5
+131734,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,408,Jamaica,Annual Average 2009-2010,26
+131735,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,409,Southeast Queens,Annual Average 2009-2010,20.5
+131736,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,410,Rockaways,Annual Average 2009-2010,16
+131737,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,501,Port Richmond,Annual Average 2009-2010,17.2
+131738,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,502,Stapleton - St. George,Annual Average 2009-2010,15.5
+131739,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,503,Willowbrook,Annual Average 2009-2010,14.5
+131740,664,Neighborhood Air Quality Concentrations- Nitric Oxide (NO),Average Concentration,UHF42,504,South Beach - Tottenville,Annual Average 2009-2010,13.5
+131790,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,Borough,1,Bronx,Annual Average 2009-2010,23.1
+131791,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,Borough,2,Brooklyn,Annual Average 2009-2010,24.4
+131792,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,Borough,3,Manhattan,Annual Average 2009-2010,32.2
+131793,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,Borough,4,Queens,Annual Average 2009-2010,21.9
+131794,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,Borough,5,Staten Island,Annual Average 2009-2010,17.4
+131789,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,Citywide,1,New York City,Annual Average 2009-2010,24.8
+131747,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,101,Kingsbridge - Riverdale,Annual Average 2009-2010,18.7
+131748,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,102,Northeast Bronx,Annual Average 2009-2010,21.3
+131749,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,103,Fordham - Bronx Pk,Annual Average 2009-2010,23
+131750,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,104,Pelham - Throgs Neck,Annual Average 2009-2010,21.6
+131751,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,105,Crotona -Tremont,Annual Average 2009-2010,25.6
+131752,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,106,High Bridge - Morrisania,Annual Average 2009-2010,26.8
+131753,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,107,Hunts Point - Mott Haven,Annual Average 2009-2010,25
+131754,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,201,Greenpoint,Annual Average 2009-2010,25.9
+131755,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,202,Downtown - Heights - Slope,Annual Average 2009-2010,26.8
+131756,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,203,Bedford Stuyvesant - Crown Heights,Annual Average 2009-2010,26.3
+131757,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,204,East New York,Annual Average 2009-2010,23.2
+131758,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,205,Sunset Park,Annual Average 2009-2010,23.8
+131759,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,206,Borough Park,Annual Average 2009-2010,24.7
+131760,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,207,East Flatbush - Flatbush,Annual Average 2009-2010,24.7
+131761,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,208,Canarsie - Flatlands,Annual Average 2009-2010,20.9
+131762,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,209,Bensonhurst - Bay Ridge,Annual Average 2009-2010,23.3
+131763,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,210,Coney Island - Sheepshead Bay,Annual Average 2009-2010,22.3
+131764,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,211,Williamsburg - Bushwick,Annual Average 2009-2010,26.3
+131765,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,301,Washington Heights,Annual Average 2009-2010,25.9
+131766,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,302,Central Harlem - Morningside Heights,Annual Average 2009-2010,27.8
+131767,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,303,East Harlem,Annual Average 2009-2010,27.4
+131768,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,304,Upper West Side,Annual Average 2009-2010,29.3
+131769,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,305,Upper East Side,Annual Average 2009-2010,33.2
+131770,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,306,Chelsea - Clinton,Annual Average 2009-2010,38.2
+131771,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,307,Gramercy Park - Murray Hill,Annual Average 2009-2010,41.8
+131772,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,308,Greenwich Village - SoHo,Annual Average 2009-2010,32.6
+131773,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,309,Union Square - Lower East Side,Annual Average 2009-2010,30.7
+131774,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,310,Lower Manhattan,Annual Average 2009-2010,34.8
+131775,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,401,Long Island City - Astoria,Annual Average 2009-2010,24.8
+131776,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,402,West Queens,Annual Average 2009-2010,24.9
+131777,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,403,Flushing - Clearview,Annual Average 2009-2010,21.3
+131778,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,404,Bayside - Little Neck,Annual Average 2009-2010,19.2
+131779,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,405,Ridgewood - Forest Hills,Annual Average 2009-2010,22.4
+131780,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,406,Fresh Meadows,Annual Average 2009-2010,21.6
+131781,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,407,Southwest Queens,Annual Average 2009-2010,22.2
+131782,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,408,Jamaica,Annual Average 2009-2010,22.8
+131783,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,409,Southeast Queens,Annual Average 2009-2010,20.9
+131784,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,410,Rockaways,Annual Average 2009-2010,18.8
+131785,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,501,Port Richmond,Annual Average 2009-2010,19.8
+131786,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,502,Stapleton - St. George,Annual Average 2009-2010,17.8
+131787,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,503,Willowbrook,Annual Average 2009-2010,16.3
+131788,665,Neighborhood Air Quality Concentrations- Nitrogen Dioxide (NO2),Average Concentration,UHF42,504,South Beach - Tottenville,Annual Average 2009-2010,15.7
+131838,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,Borough,1,Bronx,Annual Average 2009-2010,27.7
+131839,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,Borough,2,Brooklyn,Annual Average 2009-2010,27.4
+131840,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,Borough,3,Manhattan,Annual Average 2009-2010,23.5
+131841,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,Borough,4,Queens,Annual Average 2009-2010,28.3
+131842,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,Borough,5,Staten Island,Annual Average 2009-2010,29.8
+131837,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,Citywide,1,New York City,Annual Average 2009-2010,27
+131795,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,101,Kingsbridge - Riverdale,Annual Average 2009-2010,28.4
+131796,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,102,Northeast Bronx,Annual Average 2009-2010,28.6
+131797,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,103,Fordham - Bronx Pk,Annual Average 2009-2010,27.5
+131798,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,104,Pelham - Throgs Neck,Annual Average 2009-2010,28.7
+131799,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,105,Crotona -Tremont,Annual Average 2009-2010,26.7
+131800,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,106,High Bridge - Morrisania,Annual Average 2009-2010,26.3
+131801,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,107,Hunts Point - Mott Haven,Annual Average 2009-2010,27.7
+131802,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,201,Greenpoint,Annual Average 2009-2010,27.1
+131803,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,202,Downtown - Heights - Slope,Annual Average 2009-2010,26.1
+131804,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,203,Bedford Stuyvesant - Crown Heights,Annual Average 2009-2010,26.4
+131805,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,204,East New York,Annual Average 2009-2010,28
+131806,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,205,Sunset Park,Annual Average 2009-2010,27.7
+131807,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,206,Borough Park,Annual Average 2009-2010,27.1
+131808,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,207,East Flatbush - Flatbush,Annual Average 2009-2010,27.1
+131809,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,208,Canarsie - Flatlands,Annual Average 2009-2010,29
+131810,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,209,Bensonhurst - Bay Ridge,Annual Average 2009-2010,28
+131811,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,210,Coney Island - Sheepshead Bay,Annual Average 2009-2010,28.4
+131812,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,211,Williamsburg - Bushwick,Annual Average 2009-2010,26.6
+131813,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,301,Washington Heights,Annual Average 2009-2010,25.9
+131814,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,302,Central Harlem - Morningside Heights,Annual Average 2009-2010,25.4
+131815,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,303,East Harlem,Annual Average 2009-2010,25.7
+131816,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,304,Upper West Side,Annual Average 2009-2010,24.4
+131817,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,305,Upper East Side,Annual Average 2009-2010,23
+131818,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,306,Chelsea - Clinton,Annual Average 2009-2010,21.3
+131819,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,307,Gramercy Park - Murray Hill,Annual Average 2009-2010,19.3
+131820,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,308,Greenwich Village - SoHo,Annual Average 2009-2010,23.8
+131821,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,309,Union Square - Lower East Side,Annual Average 2009-2010,23.9
+131822,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,310,Lower Manhattan,Annual Average 2009-2010,22.7
+131823,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,401,Long Island City - Astoria,Annual Average 2009-2010,27.6
+131824,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,402,West Queens,Annual Average 2009-2010,27.3
+131825,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,403,Flushing - Clearview,Annual Average 2009-2010,28.6
+131826,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,404,Bayside - Little Neck,Annual Average 2009-2010,28.5
+131827,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,405,Ridgewood - Forest Hills,Annual Average 2009-2010,27.9
+131828,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,406,Fresh Meadows,Annual Average 2009-2010,28
+131829,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,407,Southwest Queens,Annual Average 2009-2010,28.4
+131830,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,408,Jamaica,Annual Average 2009-2010,27.8
+131831,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,409,Southeast Queens,Annual Average 2009-2010,28.7
+131832,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,410,Rockaways,Annual Average 2009-2010,30.5
+131833,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,501,Port Richmond,Annual Average 2009-2010,29.2
+131834,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,502,Stapleton - St. George,Annual Average 2009-2010,29.4
+131835,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,503,Willowbrook,Annual Average 2009-2010,30.3
+131836,666,Neighborhood Air Quality Concentrations- Ozone (O3),Average Concentration,UHF42,504,South Beach - Tottenville,Annual Average 2009-2010,30.3
+134822,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,Borough,1,Bronx,2-Year Winter Average 2009-2010,6.5
+134823,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,Borough,2,Brooklyn,2-Year Winter Average 2009-2010,3.6
+134824,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,Borough,3,Manhattan,2-Year Winter Average 2009-2010,7.1
+134825,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,Borough,4,Queens,2-Year Winter Average 2009-2010,3.4
+134826,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,Borough,5,Staten Island,2-Year Winter Average 2009-2010,2
+134821,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,Citywide,1,New York City,2-Year Winter Average 2009-2010,4.7
+134779,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,101,Kingsbridge - Riverdale,2-Year Winter Average 2009-2010,5.4
+134780,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,102,Northeast Bronx,2-Year Winter Average 2009-2010,4.8
+134781,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,103,Fordham - Bronx Pk,2-Year Winter Average 2009-2010,9.1
+134782,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,104,Pelham - Throgs Neck,2-Year Winter Average 2009-2010,4.8
+134783,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,105,Crotona -Tremont,2-Year Winter Average 2009-2010,9.3
+134784,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,106,High Bridge - Morrisania,2-Year Winter Average 2009-2010,7.5
+134785,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,107,Hunts Point - Mott Haven,2-Year Winter Average 2009-2010,4.8
+134786,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,201,Greenpoint,2-Year Winter Average 2009-2010,4.2
+134787,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,202,Downtown - Heights - Slope,2-Year Winter Average 2009-2010,3.3
+134788,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,203,Bedford Stuyvesant - Crown Heights,2-Year Winter Average 2009-2010,4.1
+134789,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,204,East New York,2-Year Winter Average 2009-2010,3.5
+134790,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,205,Sunset Park,2-Year Winter Average 2009-2010,3.4
+134791,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,206,Borough Park,2-Year Winter Average 2009-2010,4
+134792,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,207,East Flatbush - Flatbush,2-Year Winter Average 2009-2010,4.2
+134793,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,208,Canarsie - Flatlands,2-Year Winter Average 2009-2010,2.8
+134794,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,209,Bensonhurst - Bay Ridge,2-Year Winter Average 2009-2010,3.3
+134795,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,210,Coney Island - Sheepshead Bay,2-Year Winter Average 2009-2010,2.9
+134796,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,211,Williamsburg - Bushwick,2-Year Winter Average 2009-2010,4.3
+134797,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,301,Washington Heights,2-Year Winter Average 2009-2010,9.1
+134798,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,302,Central Harlem - Morningside Heights,2-Year Winter Average 2009-2010,6.7
+134799,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,303,East Harlem,2-Year Winter Average 2009-2010,6.7
+134800,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,304,Upper West Side,2-Year Winter Average 2009-2010,8.2
+134801,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,305,Upper East Side,2-Year Winter Average 2009-2010,10.3
+134802,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,306,Chelsea - Clinton,2-Year Winter Average 2009-2010,6.1
+134803,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,307,Gramercy Park - Murray Hill,2-Year Winter Average 2009-2010,8.5
+134804,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,308,Greenwich Village - SoHo,2-Year Winter Average 2009-2010,5.7
+134805,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,309,Union Square - Lower East Side,2-Year Winter Average 2009-2010,6.4
+134806,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,310,Lower Manhattan,2-Year Winter Average 2009-2010,3.6
+134807,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,401,Long Island City - Astoria,2-Year Winter Average 2009-2010,5.3
+134808,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,402,West Queens,2-Year Winter Average 2009-2010,4.4
+134809,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,403,Flushing - Clearview,2-Year Winter Average 2009-2010,3.1
+134810,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,404,Bayside - Little Neck,2-Year Winter Average 2009-2010,2.8
+134811,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,405,Ridgewood - Forest Hills,2-Year Winter Average 2009-2010,3.7
+134812,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,406,Fresh Meadows,2-Year Winter Average 2009-2010,2.9
+134813,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,407,Southwest Queens,2-Year Winter Average 2009-2010,3.3
+134814,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,408,Jamaica,2-Year Winter Average 2009-2010,3
+134815,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,409,Southeast Queens,2-Year Winter Average 2009-2010,2.6
+134816,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,410,Rockaways,2-Year Winter Average 2009-2010,2.6
+134817,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,501,Port Richmond,2-Year Winter Average 2009-2010,2.2
+134818,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,502,Stapleton - St. George,2-Year Winter Average 2009-2010,2.3
+134819,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,503,Willowbrook,2-Year Winter Average 2009-2010,1.8
+134820,667,Neighborhood Air Quality Concentrations: Sulfur Dioxide (SO2),Average Concentration,UHF42,504,South Beach - Tottenville,2-Year Winter Average 2009-2010,1.8
+131310,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,1,Bronx,2005-2007,89.6
+131310,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,1,Bronx,2005-2007,89.6
+131070,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,1,Bronx,2005-2007,136.1
+131070,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,1,Bronx,2005-2007,136.1
+131311,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,2,Brooklyn,2005-2007,47.8
+131311,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,2,Brooklyn,2005-2007,47.8
+131071,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,2,Brooklyn,2005-2007,79
+131071,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,2,Brooklyn,2005-2007,79
+131312,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,3,Manhattan,2005-2007,43.8
+131312,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,3,Manhattan,2005-2007,43.8
+131072,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,3,Manhattan,2005-2007,120.1
+131072,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,3,Manhattan,2005-2007,120.1
+131313,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,4,Queens,2005-2007,23.5
+131313,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,4,Queens,2005-2007,23.5
+131073,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,4,Queens,2005-2007,65.7
+131073,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,4,Queens,2005-2007,65.7
+131314,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,5,Staten Island,2005-2007,28.4
+131314,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,5,Staten Island,2005-2007,28.4
+131074,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,5,Staten Island,2005-2007,49.9
+131074,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,5,Staten Island,2005-2007,49.9
+151522,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,1,Bronx,2009-2011,79.8
+151522,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,1,Bronx,2009-2011,79.8
+151474,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,1,Bronx,2009-2011,146.7
+151474,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,1,Bronx,2009-2011,146.7
+151523,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,2,Brooklyn,2009-2011,54
+151523,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,2,Brooklyn,2009-2011,54
+151475,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,2,Brooklyn,2009-2011,101
+151475,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,2,Brooklyn,2009-2011,101
+151524,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,3,Manhattan,2009-2011,43.2
+151524,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,3,Manhattan,2009-2011,43.2
+151476,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,3,Manhattan,2009-2011,135.7
+151476,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,3,Manhattan,2009-2011,135.7
+151525,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,4,Queens,2009-2011,27
+151525,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,4,Queens,2009-2011,27
+151477,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,4,Queens,2009-2011,84.1
+151477,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,4,Queens,2009-2011,84.1
+151526,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,5,Staten Island,2009-2011,37.9
+151526,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Borough,5,Staten Island,2009-2011,37.9
+151478,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,5,Staten Island,2009-2011,67.9
+151478,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Borough,5,Staten Island,2009-2011,67.9
+131309,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Citywide,1,New York City,2005-2007,45.4
+131309,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Citywide,1,New York City,2005-2007,45.4
+131069,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Citywide,1,New York City,2005-2007,91.3
+131069,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Citywide,1,New York City,2005-2007,91.3
+151521,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Citywide,1,New York City,2009-2011,47.4
+151521,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,Citywide,1,New York City,2009-2011,47.4
+151473,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Citywide,1,New York City,2009-2011,108.6
+151473,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,Citywide,1,New York City,2009-2011,108.6
+131267,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,101,Kingsbridge - Riverdale,2005-2007,30.1
+131267,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,101,Kingsbridge - Riverdale,2005-2007,30.1
+131027,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,101,Kingsbridge - Riverdale,2005-2007,68.3
+131027,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,101,Kingsbridge - Riverdale,2005-2007,68.3
+131268,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,102,Northeast Bronx,2005-2007,58.3
+131268,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,102,Northeast Bronx,2005-2007,58.3
+131028,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,102,Northeast Bronx,2005-2007,114.5
+131028,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,102,Northeast Bronx,2005-2007,114.5
+131269,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,103,Fordham - Bronx Pk,2005-2007,84.1
+131269,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,103,Fordham - Bronx Pk,2005-2007,84.1
+131029,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,103,Fordham - Bronx Pk,2005-2007,115.8
+131029,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,103,Fordham - Bronx Pk,2005-2007,115.8
+131270,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,104,Pelham - Throgs Neck,2005-2007,64.8
+131270,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,104,Pelham - Throgs Neck,2005-2007,64.8
+131030,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,104,Pelham - Throgs Neck,2005-2007,114.6
+131030,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,104,Pelham - Throgs Neck,2005-2007,114.6
+131271,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,105,Crotona -Tremont,2005-2007,138.6
+131271,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,105,Crotona -Tremont,2005-2007,138.6
+131031,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,105,Crotona -Tremont,2005-2007,159.6
+131031,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,105,Crotona -Tremont,2005-2007,159.6
+131272,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,106,High Bridge - Morrisania,2005-2007,124
+131272,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,106,High Bridge - Morrisania,2005-2007,124
+131032,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,106,High Bridge - Morrisania,2005-2007,171.2
+131032,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,106,High Bridge - Morrisania,2005-2007,171.2
+131273,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,107,Hunts Point - Mott Haven,2005-2007,130.1
+131273,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,107,Hunts Point - Mott Haven,2005-2007,130.1
+131033,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,107,Hunts Point - Mott Haven,2005-2007,169.4
+131033,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,107,Hunts Point - Mott Haven,2005-2007,169.4
+131274,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,201,Greenpoint,2005-2007,27
+131274,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,201,Greenpoint,2005-2007,27
+131034,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,201,Greenpoint,2005-2007,42.7
+131034,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,201,Greenpoint,2005-2007,42.7
+131275,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,202,Downtown - Heights - Slope,2005-2007,51.4
+131275,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,202,Downtown - Heights - Slope,2005-2007,51.4
+131035,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,202,Downtown - Heights - Slope,2005-2007,77.1
+131035,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,202,Downtown - Heights - Slope,2005-2007,77.1
+131276,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,203,Bedford Stuyvesant - Crown Heights,2005-2007,98.5
+131276,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,203,Bedford Stuyvesant - Crown Heights,2005-2007,98.5
+131036,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,203,Bedford Stuyvesant - Crown Heights,2005-2007,155.7
+131036,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,203,Bedford Stuyvesant - Crown Heights,2005-2007,155.7
+131277,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,204,East New York,2005-2007,86.4
+131277,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,204,East New York,2005-2007,86.4
+131037,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,204,East New York,2005-2007,136.8
+131037,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,204,East New York,2005-2007,136.8
+131278,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,205,Sunset Park,2005-2007,40.5
+131278,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,205,Sunset Park,2005-2007,40.5
+131038,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,205,Sunset Park,2005-2007,37.7
+131038,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,205,Sunset Park,2005-2007,37.7
+131279,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,206,Borough Park,2005-2007,11.6
+131279,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,206,Borough Park,2005-2007,11.6
+131039,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,206,Borough Park,2005-2007,12.4
+131039,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,206,Borough Park,2005-2007,12.4
+131280,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,207,East Flatbush - Flatbush,2005-2007,49.8
+131280,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,207,East Flatbush - Flatbush,2005-2007,49.8
+131040,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,207,East Flatbush - Flatbush,2005-2007,93.5
+131040,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,207,East Flatbush - Flatbush,2005-2007,93.5
+131281,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,208,Canarsie - Flatlands,2005-2007,38.3
+131281,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,208,Canarsie - Flatlands,2005-2007,38.3
+131041,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,208,Canarsie - Flatlands,2005-2007,79.4
+131041,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,208,Canarsie - Flatlands,2005-2007,79.4
+131282,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,209,Bensonhurst - Bay Ridge,2005-2007,12.9
+131282,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,209,Bensonhurst - Bay Ridge,2005-2007,12.9
+131042,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,209,Bensonhurst - Bay Ridge,2005-2007,16.9
+131042,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,209,Bensonhurst - Bay Ridge,2005-2007,16.9
+131283,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,210,Coney Island - Sheepshead Bay,2005-2007,22.6
+131283,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,210,Coney Island - Sheepshead Bay,2005-2007,22.6
+131043,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,210,Coney Island - Sheepshead Bay,2005-2007,33.4
+131043,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,210,Coney Island - Sheepshead Bay,2005-2007,33.4
+131284,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,211,Williamsburg - Bushwick,2005-2007,98.3
+131284,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,211,Williamsburg - Bushwick,2005-2007,98.3
+131044,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,211,Williamsburg - Bushwick,2005-2007,138.7
+131044,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,211,Williamsburg - Bushwick,2005-2007,138.7
+131285,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,301,Washington Heights,2005-2007,46.8
+131285,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,301,Washington Heights,2005-2007,46.8
+131045,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,301,Washington Heights,2005-2007,110.4
+131045,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,301,Washington Heights,2005-2007,110.4
+131286,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,302,Central Harlem - Morningside Heights,2005-2007,156.1
+131286,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,302,Central Harlem - Morningside Heights,2005-2007,156.1
+131046,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,302,Central Harlem - Morningside Heights,2005-2007,292.5
+131046,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,302,Central Harlem - Morningside Heights,2005-2007,292.5
+131287,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,303,East Harlem,2005-2007,143.9
+131287,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,303,East Harlem,2005-2007,143.9
+131047,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,303,East Harlem,2005-2007,224.8
+131047,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,303,East Harlem,2005-2007,224.8
+131288,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,304,Upper West Side,2005-2007,24.3
+131288,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,304,Upper West Side,2005-2007,24.3
+131048,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,304,Upper West Side,2005-2007,80.5
+131048,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,304,Upper West Side,2005-2007,80.5
+131289,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,305,Upper East Side,2005-2007,8.5
+131289,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,305,Upper East Side,2005-2007,8.5
+131049,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,305,Upper East Side,2005-2007,30
+131049,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,305,Upper East Side,2005-2007,30
+131290,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,306,Chelsea - Clinton,2005-2007,28.6
+131290,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,306,Chelsea - Clinton,2005-2007,28.6
+131050,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,306,Chelsea - Clinton,2005-2007,97.8
+131050,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,306,Chelsea - Clinton,2005-2007,97.8
+131291,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,307,Gramercy Park - Murray Hill,2005-2007,19.6
+131291,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,307,Gramercy Park - Murray Hill,2005-2007,19.6
+131051,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,307,Gramercy Park - Murray Hill,2005-2007,42.4
+131051,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,307,Gramercy Park - Murray Hill,2005-2007,42.4
+131292,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,308,Greenwich Village - SoHo,2005-2007,9.1
+131292,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,308,Greenwich Village - SoHo,2005-2007,9.1
+131052,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,308,Greenwich Village - SoHo,2005-2007,19.9
+131052,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,308,Greenwich Village - SoHo,2005-2007,19.9
+131293,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,309,Union Square - Lower East Side,2005-2007,35
+131293,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,309,Union Square - Lower East Side,2005-2007,35
+131053,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,309,Union Square - Lower East Side,2005-2007,85.8
+131053,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,309,Union Square - Lower East Side,2005-2007,85.8
+131294,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,310,Lower Manhattan,2005-2007,26.9
+131294,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,310,Lower Manhattan,2005-2007,26.9
+131054,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,310,Lower Manhattan,2005-2007,57.2
+131054,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,310,Lower Manhattan,2005-2007,57.2
+131295,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,401,Long Island City - Astoria,2005-2007,12.5
+131295,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,401,Long Island City - Astoria,2005-2007,12.5
+131055,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,401,Long Island City - Astoria,2005-2007,47.4
+131055,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,401,Long Island City - Astoria,2005-2007,47.4
+131296,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,402,West Queens,2005-2007,17.3
+131296,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,402,West Queens,2005-2007,17.3
+131056,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,402,West Queens,2005-2007,61.5
+131056,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,402,West Queens,2005-2007,61.5
+131297,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,403,Flushing - Clearview,2005-2007,11.3
+131297,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,403,Flushing - Clearview,2005-2007,11.3
+131057,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,403,Flushing - Clearview,2005-2007,38.8
+131057,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,403,Flushing - Clearview,2005-2007,38.8
+131298,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,404,Bayside - Little Neck,2005-2007,7.5
+131298,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,404,Bayside - Little Neck,2005-2007,7.5
+131058,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,404,Bayside - Little Neck,2005-2007,23.4
+131058,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,404,Bayside - Little Neck,2005-2007,23.4
+131299,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,405,Ridgewood - Forest Hills,2005-2007,16.2
+131299,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,405,Ridgewood - Forest Hills,2005-2007,16.2
+131059,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,405,Ridgewood - Forest Hills,2005-2007,40.4
+131059,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,405,Ridgewood - Forest Hills,2005-2007,40.4
+131300,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,406,Fresh Meadows,2005-2007,21.1
+131300,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,406,Fresh Meadows,2005-2007,21.1
+131060,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,406,Fresh Meadows,2005-2007,49.7
+131060,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,406,Fresh Meadows,2005-2007,49.7
+131301,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,407,Southwest Queens,2005-2007,27
+131301,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,407,Southwest Queens,2005-2007,27
+131061,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,407,Southwest Queens,2005-2007,63.5
+131061,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,407,Southwest Queens,2005-2007,63.5
+131302,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,408,Jamaica,2005-2007,47.7
+131302,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,408,Jamaica,2005-2007,47.7
+131062,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,408,Jamaica,2005-2007,103.9
+131062,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,408,Jamaica,2005-2007,103.9
+131303,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,409,Southeast Queens,2005-2007,29.7
+131303,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,409,Southeast Queens,2005-2007,29.7
+131063,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,409,Southeast Queens,2005-2007,72.9
+131063,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,409,Southeast Queens,2005-2007,72.9
+131304,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,410,Rockaways,2005-2007,58.8
+131304,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,410,Rockaways,2005-2007,58.8
+131064,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,410,Rockaways,2005-2007,135.2
+131064,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,410,Rockaways,2005-2007,135.2
+131305,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,501,Port Richmond,2005-2007,57.9
+131305,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,501,Port Richmond,2005-2007,57.9
+131065,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,501,Port Richmond,2005-2007,92.9
+131065,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,501,Port Richmond,2005-2007,92.9
+131306,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,502,Stapleton - St. George,2005-2007,39.8
+131306,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,502,Stapleton - St. George,2005-2007,39.8
+131066,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,502,Stapleton - St. George,2005-2007,73.2
+131066,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,502,Stapleton - St. George,2005-2007,73.2
+131307,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,503,Willowbrook,2005-2007,16.2
+131307,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,503,Willowbrook,2005-2007,16.2
+131067,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,503,Willowbrook,2005-2007,28
+131067,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,503,Willowbrook,2005-2007,28
+131308,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,504,South Beach - Tottenville,2005-2007,16.3
+131308,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,504,South Beach - Tottenville,2005-2007,16.3
+131068,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,504,South Beach - Tottenville,2005-2007,23.6
+131068,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,504,South Beach - Tottenville,2005-2007,23.6
+151479,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,101,Kingsbridge - Riverdale,2009-2011,26.5
+151479,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,101,Kingsbridge - Riverdale,2009-2011,26.5
+151431,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,101,Kingsbridge - Riverdale,2009-2011,66.2
+151431,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,101,Kingsbridge - Riverdale,2009-2011,66.2
+151480,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,102,Northeast Bronx,2009-2011,42.2
+151480,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,102,Northeast Bronx,2009-2011,42.2
+151432,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,102,Northeast Bronx,2009-2011,79.3
+151432,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,102,Northeast Bronx,2009-2011,79.3
+151481,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,103,Fordham - Bronx Pk,2009-2011,73.6
+151481,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,103,Fordham - Bronx Pk,2009-2011,73.6
+151433,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,103,Fordham - Bronx Pk,2009-2011,125
+151433,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,103,Fordham - Bronx Pk,2009-2011,125
+151482,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,104,Pelham - Throgs Neck,2009-2011,58.1
+151482,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,104,Pelham - Throgs Neck,2009-2011,58.1
+151434,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,104,Pelham - Throgs Neck,2009-2011,116
+151434,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,104,Pelham - Throgs Neck,2009-2011,116
+151483,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,105,Crotona -Tremont,2009-2011,127.4
+151483,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,105,Crotona -Tremont,2009-2011,127.4
+151435,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,105,Crotona -Tremont,2009-2011,183.9
+151484,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,106,High Bridge - Morrisania,2009-2011,113.1
+151436,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,106,High Bridge - Morrisania,2009-2011,202
+151436,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,106,High Bridge - Morrisania,2009-2011,202
+151485,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,107,Hunts Point - Mott Haven,2009-2011,119.1
+151485,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,107,Hunts Point - Mott Haven,2009-2011,119.1
+151437,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,107,Hunts Point - Mott Haven,2009-2011,206.3
+151437,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,107,Hunts Point - Mott Haven,2009-2011,206.3
+151486,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,201,Greenpoint,2009-2011,26.9
+151486,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,201,Greenpoint,2009-2011,26.9
+151438,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,201,Greenpoint,2009-2011,58.6
+151438,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,201,Greenpoint,2009-2011,58.6
+151487,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,202,Downtown - Heights - Slope,2009-2011,43.5
+151487,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,202,Downtown - Heights - Slope,2009-2011,43.5
+151439,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,202,Downtown - Heights - Slope,2009-2011,95.3
+151439,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,202,Downtown - Heights - Slope,2009-2011,95.3
+151488,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,105.4
+151488,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,105.4
+151440,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,191.4
+151440,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,203,Bedford Stuyvesant - Crown Heights,2009-2011,191.4
+151489,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,204,East New York,2009-2011,95
+151489,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,204,East New York,2009-2011,95
+151441,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,204,East New York,2009-2011,164
+151441,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,204,East New York,2009-2011,164
+151490,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,205,Sunset Park,2009-2011,39.1
+151490,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,205,Sunset Park,2009-2011,39.1
+151442,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,205,Sunset Park,2009-2011,59.5
+151442,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,205,Sunset Park,2009-2011,59.5
+151491,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,206,Borough Park,2009-2011,15.4
+151491,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,206,Borough Park,2009-2011,15.4
+151443,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,206,Borough Park,2009-2011,22.7
+151443,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,206,Borough Park,2009-2011,22.7
+151492,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,207,East Flatbush - Flatbush,2009-2011,65.9
+151492,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,207,East Flatbush - Flatbush,2009-2011,65.9
+151444,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,207,East Flatbush - Flatbush,2009-2011,129.2
+151444,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,207,East Flatbush - Flatbush,2009-2011,129.2
+151493,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,208,Canarsie - Flatlands,2009-2011,49.8
+151493,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,208,Canarsie - Flatlands,2009-2011,49.8
+151445,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,208,Canarsie - Flatlands,2009-2011,97.7
+151445,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,208,Canarsie - Flatlands,2009-2011,97.7
+151494,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,13.7
+151494,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,13.7
+151446,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,24.9
+151446,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,209,Bensonhurst - Bay Ridge,2009-2011,24.9
+151495,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,24
+151495,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,24
+151447,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,42.3
+151447,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,210,Coney Island - Sheepshead Bay,2009-2011,42.3
+151496,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,211,Williamsburg - Bushwick,2009-2011,113.7
+151496,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,211,Williamsburg - Bushwick,2009-2011,113.7
+151448,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,211,Williamsburg - Bushwick,2009-2011,185.8
+151448,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,211,Williamsburg - Bushwick,2009-2011,185.8
+151497,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,301,Washington Heights,2009-2011,41.7
+151497,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,301,Washington Heights,2009-2011,41.7
+151449,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,301,Washington Heights,2009-2011,130.2
+151449,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,301,Washington Heights,2009-2011,130.2
+151498,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,302,Central Harlem - Morningside Heights,2009-2011,130.4
+151498,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,302,Central Harlem - Morningside Heights,2009-2011,130.4
+151450,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,302,Central Harlem - Morningside Heights,2009-2011,269.9
+151450,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,302,Central Harlem - Morningside Heights,2009-2011,269.9
+151499,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,303,East Harlem,2009-2011,135.2
+151499,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,303,East Harlem,2009-2011,135.2
+151451,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,303,East Harlem,2009-2011,276
+151451,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,303,East Harlem,2009-2011,276
+151500,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,304,Upper West Side,2009-2011,24.1
+151500,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,304,Upper West Side,2009-2011,24.1
+151452,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,304,Upper West Side,2009-2011,69.8
+151452,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,304,Upper West Side,2009-2011,69.8
+151501,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,305,Upper East Side,2009-2011,9.3
+151501,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,305,Upper East Side,2009-2011,9.3
+151453,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,305,Upper East Side,2009-2011,35.4
+151453,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,305,Upper East Side,2009-2011,35.4
+151502,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,306,Chelsea - Clinton,2009-2011,24.6
+151502,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,306,Chelsea - Clinton,2009-2011,24.6
+151454,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,306,Chelsea - Clinton,2009-2011,91.6
+151454,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,306,Chelsea - Clinton,2009-2011,91.6
+151503,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,307,Gramercy Park - Murray Hill,2009-2011,19.6
+151503,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,307,Gramercy Park - Murray Hill,2009-2011,19.6
+151455,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,307,Gramercy Park - Murray Hill,2009-2011,70
+151455,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,307,Gramercy Park - Murray Hill,2009-2011,70
+151504,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,308,Greenwich Village - SoHo,2009-2011,8.9
+151504,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,308,Greenwich Village - SoHo,2009-2011,8.9
+151456,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,308,Greenwich Village - SoHo,2009-2011,24.2
+151456,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,308,Greenwich Village - SoHo,2009-2011,24.2
+151505,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,309,Union Square - Lower East Side,2009-2011,42.5
+151505,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,309,Union Square - Lower East Side,2009-2011,42.5
+151457,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,309,Union Square - Lower East Side,2009-2011,144
+151457,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,309,Union Square - Lower East Side,2009-2011,144
+151506,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,310,Lower Manhattan,2009-2011,27
+151506,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,310,Lower Manhattan,2009-2011,27
+151458,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,310,Lower Manhattan,2009-2011,56.8
+151458,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,310,Lower Manhattan,2009-2011,56.8
+151507,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,401,Long Island City - Astoria,2009-2011,27.1
+151507,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,401,Long Island City - Astoria,2009-2011,27.1
+151459,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,401,Long Island City - Astoria,2009-2011,75
+151459,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,401,Long Island City - Astoria,2009-2011,75
+151508,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,402,West Queens,2009-2011,16.1
+151508,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,402,West Queens,2009-2011,16.1
+151460,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,402,West Queens,2009-2011,72.4
+151460,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,402,West Queens,2009-2011,72.4
+151509,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,403,Flushing - Clearview,2009-2011,10.5
+151509,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,403,Flushing - Clearview,2009-2011,10.5
+151461,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,403,Flushing - Clearview,2009-2011,40
+151461,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,403,Flushing - Clearview,2009-2011,40
+151510,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,404,Bayside - Little Neck,2009-2011,7.8
+151510,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,404,Bayside - Little Neck,2009-2011,7.8
+151462,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,404,Bayside - Little Neck,2009-2011,27.5
+151462,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,404,Bayside - Little Neck,2009-2011,27.5
+151511,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,405,Ridgewood - Forest Hills,2009-2011,16.6
+151511,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,405,Ridgewood - Forest Hills,2009-2011,16.6
+151463,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,405,Ridgewood - Forest Hills,2009-2011,56.3
+151463,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,405,Ridgewood - Forest Hills,2009-2011,56.3
+151512,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,406,Fresh Meadows,2009-2011,20.7
+151512,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,406,Fresh Meadows,2009-2011,20.7
+151464,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,406,Fresh Meadows,2009-2011,60.9
+151464,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,406,Fresh Meadows,2009-2011,60.9
+151513,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,407,Southwest Queens,2009-2011,35
+151513,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,407,Southwest Queens,2009-2011,35
+151465,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,407,Southwest Queens,2009-2011,89
+151465,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,407,Southwest Queens,2009-2011,89
+151514,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,408,Jamaica,2009-2011,54.1
+151514,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,408,Jamaica,2009-2011,54.1
+151466,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,408,Jamaica,2009-2011,144.7
+151466,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,408,Jamaica,2009-2011,144.7
+151515,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,409,Southeast Queens,2009-2011,35.5
+151515,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,409,Southeast Queens,2009-2011,35.5
+151467,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,409,Southeast Queens,2009-2011,90.2
+151467,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,409,Southeast Queens,2009-2011,90.2
+151516,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,410,Rockaways,2009-2011,59.7
+151516,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,410,Rockaways,2009-2011,59.7
+151468,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,410,Rockaways,2009-2011,137.4
+151468,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,410,Rockaways,2009-2011,137.4
+151517,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,501,Port Richmond,2009-2011,84.7
+151517,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,501,Port Richmond,2009-2011,84.7
+151469,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,501,Port Richmond,2009-2011,118.8
+151469,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,501,Port Richmond,2009-2011,118.8
+151518,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,502,Stapleton - St. George,2009-2011,58.1
+151518,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,502,Stapleton - St. George,2009-2011,58.1
+151470,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,502,Stapleton - St. George,2009-2011,101.7
+151470,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,502,Stapleton - St. George,2009-2011,101.7
+151519,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,503,Willowbrook,2009-2011,22.3
+151519,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,503,Willowbrook,2009-2011,22.3
+151471,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,503,Willowbrook,2009-2011,47.3
+151471,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,503,Willowbrook,2009-2011,47.3
+151520,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,504,South Beach - Tottenville,2009-2011,15.9
+151520,659,O3-Attributable Asthma ED Visits,Rate- 18 Yrs and Older,UHF42,504,South Beach - Tottenville,2009-2011,15.9
+151472,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,504,South Beach - Tottenville,2009-2011,29.8
+151472,653,O3-Attributable Asthma ED Visits,Rate- Children 0 to 17 Yrs Old,UHF42,504,South Beach - Tottenville,2009-2011,29.8
+131358,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,1,Bronx,2005-2007,13.4
+131358,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,1,Bronx,2005-2007,13.4
+131166,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,1,Bronx,2005-2007,34.1
+131166,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,1,Bronx,2005-2007,34.1
+131359,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,2,Brooklyn,2005-2007,8
+131359,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,2,Brooklyn,2005-2007,8
+131167,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,2,Brooklyn,2005-2007,21.1
+131167,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,2,Brooklyn,2005-2007,21.1
+131360,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,3,Manhattan,2005-2007,5.5
+131360,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,3,Manhattan,2005-2007,5.5
+131168,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,3,Manhattan,2005-2007,20.1
+131168,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,3,Manhattan,2005-2007,20.1
+131361,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,4,Queens,2005-2007,4.3
+131361,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,4,Queens,2005-2007,4.3
+131169,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,4,Queens,2005-2007,17.1
+131169,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,4,Queens,2005-2007,17.1
+131362,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,5,Staten Island,2005-2007,4.7
+131362,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,5,Staten Island,2005-2007,4.7
+131170,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,5,Staten Island,2005-2007,11.7
+131170,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,5,Staten Island,2005-2007,11.7
+151618,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,1,Bronx,2009-2011,13.7
+151618,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,1,Bronx,2009-2011,13.7
+151570,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,1,Bronx,2009-2011,37.8
+151570,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,1,Bronx,2009-2011,37.8
+151619,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,2,Brooklyn,2009-2011,7.6
+151619,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,2,Brooklyn,2009-2011,7.6
+151571,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,2,Brooklyn,2009-2011,20.9
+151571,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,2,Brooklyn,2009-2011,20.9
+151620,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,3,Manhattan,2009-2011,4.9
+151620,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,3,Manhattan,2009-2011,4.9
+151572,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,3,Manhattan,2009-2011,19.9
+151572,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,3,Manhattan,2009-2011,19.9
+151621,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,4,Queens,2009-2011,4.2
+151621,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,4,Queens,2009-2011,4.2
+151573,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,4,Queens,2009-2011,17
+151573,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,4,Queens,2009-2011,17
+151622,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,5,Staten Island,2009-2011,6.8
+151622,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Borough,5,Staten Island,2009-2011,6.8
+151574,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,5,Staten Island,2009-2011,12.5
+151574,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Borough,5,Staten Island,2009-2011,12.5
+131357,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Citywide,1,New York City,2005-2007,7.1
+131357,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Citywide,1,New York City,2005-2007,7.1
+131165,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Citywide,1,New York City,2005-2007,22
+131165,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Citywide,1,New York City,2005-2007,22
+151617,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Citywide,1,New York City,2009-2011,7
+151617,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,Citywide,1,New York City,2009-2011,7
+151569,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Citywide,1,New York City,2009-2011,22.7
+151569,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,Citywide,1,New York City,2009-2011,22.7
+131315,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,101,Kingsbridge - Riverdale,2005-2007,6.3
+131315,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,101,Kingsbridge - Riverdale,2005-2007,6.3
+131123,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,101,Kingsbridge - Riverdale,2005-2007,19.4
+131123,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,101,Kingsbridge - Riverdale,2005-2007,19.4
+131316,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,102,Northeast Bronx,2005-2007,9
+131316,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,102,Northeast Bronx,2005-2007,9
+131124,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,102,Northeast Bronx,2005-2007,28.1
+131124,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,102,Northeast Bronx,2005-2007,28.1
+131317,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,103,Fordham - Bronx Pk,2005-2007,14.4
+131317,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,103,Fordham - Bronx Pk,2005-2007,14.4
+131125,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,103,Fordham - Bronx Pk,2005-2007,34.5
+131125,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,103,Fordham - Bronx Pk,2005-2007,34.5
+131318,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,104,Pelham - Throgs Neck,2005-2007,10.2
+131318,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,104,Pelham - Throgs Neck,2005-2007,10.2
+131126,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,104,Pelham - Throgs Neck,2005-2007,28
+131126,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,104,Pelham - Throgs Neck,2005-2007,28
+131319,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,105,Crotona -Tremont,2005-2007,18.9
+131319,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,105,Crotona -Tremont,2005-2007,18.9
+131127,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,105,Crotona -Tremont,2005-2007,36
+131127,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,105,Crotona -Tremont,2005-2007,36
+131320,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,106,High Bridge - Morrisania,2005-2007,18.5
+131320,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,106,High Bridge - Morrisania,2005-2007,18.5
+131128,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,106,High Bridge - Morrisania,2005-2007,35.1
+131128,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,106,High Bridge - Morrisania,2005-2007,35.1
+131321,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,107,Hunts Point - Mott Haven,2005-2007,19.4
+131321,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,107,Hunts Point - Mott Haven,2005-2007,19.4
+131129,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,107,Hunts Point - Mott Haven,2005-2007,35.9
+131129,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,107,Hunts Point - Mott Haven,2005-2007,35.9
+131322,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,201,Greenpoint,2005-2007,5.8
+131322,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,201,Greenpoint,2005-2007,5.8
+131130,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,201,Greenpoint,2005-2007,9.5
+131130,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,201,Greenpoint,2005-2007,9.5
+131323,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,202,Downtown - Heights - Slope,2005-2007,7.9
+131323,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,202,Downtown - Heights - Slope,2005-2007,7.9
+131131,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,202,Downtown - Heights - Slope,2005-2007,16.5
+131131,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,202,Downtown - Heights - Slope,2005-2007,16.5
+131324,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,203,Bedford Stuyvesant - Crown Heights,2005-2007,15.1
+131324,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,203,Bedford Stuyvesant - Crown Heights,2005-2007,15.1
+131132,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,203,Bedford Stuyvesant - Crown Heights,2005-2007,37.9
+131132,655,O3-Attributable Asthma Hospitalizations ,Rate- Children 0 to 17 Yrs Old,UHF42,203,Bedford Stuyvesant - Crown Heights,2005-2007,37.9
+131325,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,204,East New York,2005-2007,12.1
+131325,661,O3-Attributable Asthma Hospitalizations ,Rate- 18 Yrs and Older,UHF42,204,East New York,2005-2007,12.1
