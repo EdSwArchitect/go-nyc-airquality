@@ -12,7 +12,7 @@
             "mode": "auto",
             "program": "${fileDirname}",
             "env": {},
-            "args": ["-command", "query", "-value", "Queens", "-field", "GeoEntityName"]
+            "args": ["-command", "query", "-value", "Queens", "-field", "GeoEntityName", "-file", "/home/edbrown/go/src/github.com/EdSwArchitect/go-nyc-airquality/resources/Air_Quality.csv"]
         }
     ]
 }

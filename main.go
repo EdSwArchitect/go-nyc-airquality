@@ -209,9 +209,9 @@ func indexIt(elastic *elasticsearch.Client, record []string) {
 
 }
 
-func readCsv(elastic *elasticsearch.Client) {
+func readCsv(elastic *elasticsearch.Client, fileName string) {
 
-	fileName := "/home/edbrown/go/src/github.com/EdSwArchitect/go-nyc-airquality/resources/Air_Quality.csv"
+	// fileName := "/home/edbrown/go/src/github.com/EdSwArchitect/go-nyc-airquality/resources/Air_Quality.csv"
 	// fileName := "/home/edbrown/go/src/github.com/EdSwArchitect/go-nyc-airquality/resources/Air_Quality_First.csv"
 	// fileName := "/home/edbrown/go/src/github.com/EdSwArchitect/go-nyc-airquality/resources/Air_Quality_Last.csv"
 
@@ -360,6 +360,8 @@ func main() {
 
 	queryValue := flag.String("value", "---", "Query field value")
 
+	file := flag.String("file", "", "The path to the file to load")
+
 	flag.Parse()
 
 	fmt.Printf("Command '%s'\nField '%s'\nQuery value '%s'\n", *cmd, *field, *queryValue)
@@ -408,7 +410,7 @@ func main() {
 		search(elastic, queryValue, fieldName)
 	} else if *cmd == "load" {
 
-		readCsv(elastic)
+		readCsv(elastic, *file)
 
 	} else {
 		log.Printf("bad command: '%s'", *cmd)
