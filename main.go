@@ -360,7 +360,7 @@ func main() {
 
 	queryValue := flag.String("value", "---", "Query field value")
 
-	file := flag.String("file", "", "The path to the file to load")
+	file := flag.String("file", "---", "The path to the file to load")
 
 	flag.Parse()
 
@@ -410,7 +410,16 @@ func main() {
 		search(elastic, queryValue, fieldName)
 	} else if *cmd == "load" {
 
-		readCsv(elastic, *file)
+		if _, err := os.Stat(*file); os.IsNotExist(err) {
+
+			fmt.Printf("File %s doesn't exist.\n", *file)
+
+		} else {
+
+			fmt.Printf("Loading %s into ElasticSearch\n", *file)
+
+			readCsv(elastic, *file)
+		}
 
 	} else {
 		log.Printf("bad command: '%s'", *cmd)
